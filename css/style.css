@@ -112,6 +112,15 @@ section#hero-section {
     background-position: center center;
 }
 
+section#sub-section {
+  
+}
+.header_main_back{
+    background: url(../img/hero_background.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 
 .header_button h2 {
     background: #D846B9;
