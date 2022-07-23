@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Press & Releases
-parent: Overview
-nav_order: 6
+parent: Press
+nav_order: 1
 ---
 
 ## OnBoardXR in the Press 
