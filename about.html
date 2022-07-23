@@ -191,6 +191,8 @@ Dev by: Lihex Andrade 27/07/2020
 </ul>
 </div>
 </section>
+   
+
     <section>
         <footer>
             <div class="footer_back">
@@ -200,9 +202,9 @@ Dev by: Lihex Andrade 27/07/2020
                     <div class="footer_navbar">
                        <div class="menu pt-2 text-center">
                         <ul>
-                            <li><a href="">PRIVACY POLICY |</a></li>
-                            <li><a href="">TERMS & CONDITIONS |</a></li>
-                            <li><a href="">COOKIE POLICY |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/npc-privacy/">PRIVACY POLICY |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/npc-terms/">TERMS & CONDITIONS |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/npc-cookie/">COOKIE POLICY |</a></li>
                         </ul>
                        </div>
                     </div>
@@ -211,9 +213,9 @@ Dev by: Lihex Andrade 27/07/2020
                     <div class="footer_navbar">
                        <div class="menu pt-2 text-center">
                         <ul>
-                            <li><a href="">FOR INQUIRIES PRESS |</a></li>
-                            <li><a href="">TOURING |</a></li>
-                            <li><a href="">TEAM</a></li>
+                            <li>FOR INQUIRIES <a href="https://futurestages.github.io/npcmusical/docs/epk/">PRESS</> |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/business/">TOURING |</a></li>
+                            <li><a href="./about">TEAM</a></li>
                         </ul>
                        </div>
                     </div>
@@ -247,87 +249,6 @@ Dev by: Lihex Andrade 27/07/2020
                 $(".site-nav-menu").toggleClass("mobile-menu");
             });
         });
-    </script>
-        <script type="text/javascript">
-      const slider = document.querySelector(".slider");
-      const nextBtn = document.querySelector(".next-btn");
-      const prevBtn = document.querySelector(".prev-btn");
-      const slides = document.querySelectorAll(".slide");
-      const slideIcons = document.querySelectorAll(".slide-icon");
-      const numberOfSlides = slides.length;
-      var slideNumber = 0;
-
-      //image slider next button
-      nextBtn.addEventListener("click", () => {
-        slides.forEach((slide) => {
-          slide.classList.remove("active");
-        });
-        slideIcons.forEach((slideIcon) => {
-          slideIcon.classList.remove("active");
-        });
-
-        slideNumber++;
-
-        if (slideNumber > numberOfSlides - 1) {
-          slideNumber = 0;
-        }
-
-        slides[slideNumber].classList.add("active");
-        slideIcons[slideNumber].classList.add("active");
-      });
-
-      //image slider previous button
-      prevBtn.addEventListener("click", () => {
-        slides.forEach((slide) => {
-          slide.classList.remove("active");
-        });
-        slideIcons.forEach((slideIcon) => {
-          slideIcon.classList.remove("active");
-        });
-
-        slideNumber--;
-
-        if (slideNumber < 0) {
-          slideNumber = numberOfSlides - 1;
-        }
-
-        slides[slideNumber].classList.add("active");
-        slideIcons[slideNumber].classList.add("active");
-      });
-
-      //image slider autoplay
-      var playSlider;
-
-      var repeater = () => {
-        playSlider = setInterval(function () {
-          slides.forEach((slide) => {
-            slide.classList.remove("active");
-          });
-          slideIcons.forEach((slideIcon) => {
-            slideIcon.classList.remove("active");
-          });
-
-          slideNumber++;
-
-          if (slideNumber > numberOfSlides - 1) {
-            slideNumber = 0;
-          }
-
-          slides[slideNumber].classList.add("active");
-          slideIcons[slideNumber].classList.add("active");
-        }, 4000);
-      };
-      repeater();
-
-      //stop the image slider autoplay on mouseover
-      slider.addEventListener("mouseover", () => {
-        clearInterval(playSlider);
-      });
-
-      //start the image slider autoplay again on mouseout
-      slider.addEventListener("mouseout", () => {
-        repeater();
-      });
     </script>
     
 </body>
