@@ -529,7 +529,6 @@ section#sub-section {
 }
 
 .tour-top h4 {
-  font-family: garage-gothic, sans-serif;
   font-weight: 700;
   text-transform:uppercase;
   font-size:170%;
@@ -554,7 +553,6 @@ section#sub-section {
 
 .added p {
   color:#008000;
-  font-family: garage-gothic, sans-serif;
   font-weight: 500;
   text-transform:uppercase;
   text-align:center;
@@ -605,7 +603,6 @@ section#sub-section {
      line-height: normal !important;
      text-transform:uppercase;
      text-align:left;
-     font-family: garage-gothic, sans-serif;
      font-weight: 500;
      text-transform:uppercase;
      text-align:center;
@@ -619,7 +616,6 @@ section#sub-section {
      color:#fff;
      text-align:center;
     line-height: .8;
-    font-family: garage-gothic, sans-serif;
     font-weight: 500;
  }
 
@@ -651,7 +647,6 @@ section#sub-section {
      text-decoration:none;
      font-size:145%;
      background:#db45bb;
-     font-family: garage-gothic, sans-serif;
      font-weight: 500;
      width:20%;
  }
@@ -685,7 +680,6 @@ section#sub-section {
     text-decoration: none;
     font-size: 165%;
     background: #db45bb;
-    font-family: garage-gothic, sans-serif;
     font-weight: 500;
     width:40%;
     margin:0 auto 3em;
@@ -743,7 +737,6 @@ section#sub-section {
         font-size: 30px;
         letter-spacing: .05em;
         display: inline-block;
-        font-family: garage-gothic, sans-serif;
         font-weight: 500;
         margin-top:1px;
     }
