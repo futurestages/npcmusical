@@ -451,7 +451,7 @@ section#sub-section {
 
 /* Style the back side */
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: #db45bb;
   color: white;
   transform: rotateY(180deg);
 }
