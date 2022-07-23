@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EPK
-parent: Press
+parent: Press & Releases
 nav_order: 2
 ---
 
