@@ -414,7 +414,7 @@ section#sub-section {
 .flip-card {
   background-color: transparent;
   width: 300px;
-  height: 200px;
+  height: 300px;
   border: 1px solid #f1f1f1;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
@@ -546,14 +546,14 @@ section#sub-section {
     font-size:140%;
   }
 }
-
+/* added section - green */
 .added {
-  border:1px solid #db45bb;
+  border:1px solid #008000;
   padding:20px 0;
 }
 
 .added p {
-  color:#d81214;
+  color:#008000;
   font-family: garage-gothic, sans-serif;
   font-weight: 500;
   text-transform:uppercase;
@@ -575,9 +575,9 @@ section#sub-section {
   font-style: normal;
   font-weight: 800;
 }
-
+/* tour list section - blue */
 #tour-list p {
-  border:1px solid #db45bb;
+  border:1px solid #0000FF;
   margin:15px 0;
   padding:2.5em 0;
 }
@@ -616,7 +616,7 @@ section#sub-section {
  #tour-list .date {
      width: 45%;
      font-size: 160%;
-     color:#db45bb;
+     color:#fff;
      text-align:center;
     line-height: .8;
     font-family: garage-gothic, sans-serif;
@@ -646,7 +646,7 @@ section#sub-section {
      margin-bottom: 0;
      line-height: 1;
      text-align: center;
-     color:#ffffff;
+     color:#fff;
      padding:.55em .75em;
      text-decoration:none;
      font-size:145%;
@@ -680,7 +680,7 @@ section#sub-section {
     margin-bottom: 0;
     line-height: 1;
     text-align: center;
-    color: #db45bb;
+    color: #fff;/* button was pink now white */
     padding: .25em .75em;
     text-decoration: none;
     font-size: 165%;
