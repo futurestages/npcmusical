@@ -153,60 +153,58 @@
     </section>
 
 <section>
-    <script>
-    /**
-    *  Gallery Section Auto Scroller
-    **/
-  (function () {
-    setAutoScroll({
-      gallery: 1,
-      direction: 2,
-      timing: 3000,
-    });
-
-    /*
-    * Copy and paste the above code
-    * to target more auto-scrolling
-    * sections
-    **/
-
-    /** gallery
-    * gallery section order on the page. Ex:
-    * 1 = the first gallery section on a page,
-    * 2 = the second gallery section on a page
-    **/
-
-    /** direction
-    * direction the gallery should go in.
-    * 1 = backwards,
-    * 2 = forwards
-    **/
-
-    /** timing
-    * timing between each slide, in milliseconds. Ex:
-    * 2000 = 2 seconds
-    **/
-
-    function setAutoScroll(settings) {
-      function init() {
-        let section = document.querySelectorAll(".page-section.gallery-section")[settings.gallery - 1];
-
-        function clickArrow() {
-          if (section && !document.querySelector("html.sqs-modal-lightbox-open") && !document.hidden && !document.querySelector("body.sqs-edit-mode")) {
-            let arrow = section.querySelectorAll(".gallery-reel-control .gallery-reel-control-btn")[settings.direction - 1];
-            if (arrow) arrow.click();
-          }
-        }
-
-        window.setInterval(clickArrow, settings.timing);
-      }
-
-      window.addEventListener("DOMContentLoaded", init);
-    }
-  })();
-
-
-</script>
+   <!-- 
+Dev by: Lihex Andrade 27/07/2020
+-->
+<div class="logoslider">
+<ul>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%201" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%202" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%203" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%204" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%205" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%206" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%207" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%208" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%209" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%2010" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%2011" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%2012" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%2013" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%2014" alt="">
+    </li>
+    <li>
+        <img src="https://via.placeholder.com/200?text=Logo%2015" alt="">
+    </li>
+</ul>
+</div>
 </section>
     <section>
         <footer>
