@@ -838,7 +838,7 @@ section#sub-section {
     animation: cambio 80s infinite linear;
 }
 .logoslider li {
-    padding:0 10px;
+    padding:0 1px;
     list-style: none;
 }
 .logoslider img {
