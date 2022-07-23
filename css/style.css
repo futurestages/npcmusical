@@ -498,7 +498,7 @@ section#sub-section {
 }
 
 .tour-social a:hover {
-  color:#fff3c8;
+  color:#db45bb;
 }
 
 .tour-logo {
@@ -548,19 +548,19 @@ section#sub-section {
 }
 
 .added {
-  border:1px solid #fff3c8;
+  border:1px solid #db45bb;
   padding:20px 0;
 }
 
 .added p {
   color:#d81214;
   font-family: garage-gothic, sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   text-transform:uppercase;
   text-align:center;
   margin:0;
   padding:0;
-  font-size:220%;
+  font-size:160%;
   line-height:.8;
 }
 
@@ -577,7 +577,7 @@ section#sub-section {
 }
 
 #tour-list p {
-  border:1px solid #fff3c8;
+  border:1px solid #db45bb;
   margin:15px 0;
   padding:2.5em 0;
 }
