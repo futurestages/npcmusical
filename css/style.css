@@ -507,5 +507,378 @@ section#sub-section {
     display: block;
   }
 }
+/* TOUR
+   --------------------------------------------------*/
+
+   .tour #tour-list .hidden-xs {
+     display:block;
+   }
+
+ .clearfix:after {
+    content: " "; /* Older browser do not support empty content */
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+ }
+
+ .tour-page .main-nav.left {
+   left:16%;
+ }
+
+ .tour-page .main-nav li a:hover, .tour-page .main-nav li a.active {
+   color:#fff3c8;
+   text-decoration:underline;
+ }
+
+.tour-page #masthead {
+  top:0;
+}
+
+.tour-social {
+  position:absolute;
+  top:12px;
+  right:10px;
+}
+
+.tour-social a {
+  color:#fff;
+  padding:.25em;
+  font-size:1.7vw;
+}
+
+.tour-social a:hover {
+  color:#fff3c8;
+}
+
+.tour-logo {
+  width:95%;
+  margin:0 auto 3em;
+}
+
+#tour-container {
+  width:90%;
+  margin:3em auto 0;
+  max-width:1000px;
+  text-align:center;
+}
+
+.tour-top {
+  background:#fff3c8;
+  color:#0a0806;
+  padding:10px 0;
+}
+
+.tour-top h3 {
+  color:#0a0806;
+  text-transform:uppercase;
+  font-size:300%;
+  margin:0;
+  padding:0;
+  line-height:.85;
+}
+
+.tour-top h4 {
+  font-family: garage-gothic, sans-serif;
+  font-weight: 700;
+  text-transform:uppercase;
+  font-size:170%;
+  margin:0;
+  padding:0;
+}
+
+@media (max-width:767px) {
+  .tour-top h3 {
+    font-size:220%;
+  }
+
+  .tour-top h4 {
+    font-size:140%;
+  }
+}
+
+.added {
+  border:1px solid #fff3c8;
+  padding:20px 0;
+}
+
+.added p {
+  color:#d81214;
+  font-family: garage-gothic, sans-serif;
+  font-weight: 700;
+  text-transform:uppercase;
+  text-align:center;
+  margin:0;
+  padding:0;
+  font-size:220%;
+  line-height:.8;
+}
+
+.added p span {
+  font-size:70%;
+}
+
+#tour-container p.more {
+  margin:1em 0 2em;
+  text-align:center;
+  font-size:140%;
+  font-style: normal;
+  font-weight: 800;
+}
+
+#tour-list p {
+  border:1px solid #fff3c8;
+  margin:15px 0;
+  padding:2.5em 0;
+}
+
+#tour-list a.mobile-tix {
+  display:none;
+}
+
+ .tour-stop{
+ 	position: relative;
+ }
+
+ #tour-list .city, #tour-list .date {
+     float: left;
+     font-size:100%;
+     line-height: 1em;
+    font-style: normal;
+    font-weight: 800;
+    display:block;
+ }
+
+ #tour-list .city {
+     width: 28%;
+     white-space: nowrap;
+     line-height: normal !important;
+     text-transform:uppercase;
+     text-align:left;
+     font-family: garage-gothic, sans-serif;
+     font-weight: 700;
+     text-transform:uppercase;
+     text-align:center;
+     font-size:220%;
+     margin-top:5px;
+ }
+
+ #tour-list .date {
+     width: 45%;
+     font-size: 160%;
+     color:#fff3c8;
+     text-align:center;
+    line-height: .8;
+    font-family: garage-gothic, sans-serif;
+    font-weight: 700;
+ }
+
+ #tour-list .venue {
+     padding-right: 2em;
+     font-weight: 800;
+     line-height:1.3em;
+     margin-top:5px;
+     font-weight:normal;
+ }
+
+ #tour-list a {
+ 	float: right;
+     font-weight: bold;
+     font-size:80%;
+     z-index: 999;
+ }
+
+ #tour-list a {
+     margin-right: 1em;
+     margin-top:2em;
+     letter-spacing: .05em;
+     display: inline-block;
+     margin-bottom: 0;
+     line-height: 1;
+     text-align: center;
+     color:#fff3c8;
+     padding:.55em .75em;
+     text-decoration:none;
+     font-size:145%;
+     background:#d81214;
+     font-family: garage-gothic, sans-serif;
+     font-weight: 700;
+     width:20%;
+ }
+
+ #tour-list a:hover,
+ #tour-list a:focus {
+    background:#fff3c8;
+    color:#d81214;
+     text-decoration: none;
+ }
+
+ .tour {
+     position:relative;
+ }
+
+ h3.sign-up-hed {
+   margin-top:2em;
+   font-weight:500;
+   margin-bottom:10px;
+   padding-bottom:0;
+ }
+
+ a.tour-btn {
+    letter-spacing: .05em;
+    display: block;
+    margin-bottom: 0;
+    line-height: 1;
+    text-align: center;
+    color: #fff3c8;
+    padding: .25em .75em;
+    text-decoration: none;
+    font-size: 205%;
+    background: #d81214;
+    font-family: garage-gothic, sans-serif;
+    font-weight: 700;
+    width:40%;
+    margin:0 auto 3em;
+ }
+
+ a.tour-btn:hover {
+   background: #fff3c8;
+    color: #d81214;
+    text-decoration: none;
+ }
+
+ @media (min-width: 769px) and (max-width: 991px) {
+   #tour-list .city {
+     width: 26%;
+    font-size: 200%;
+    margin-top: 5px;
+    margin-left: 15px;
+   }
+
+ }
+
+ @media (max-width: 768px) {
+
+   .tour #tour-list .hidden-xs {
+     display: none;
+    }
+
+   .tour-page .tour-nav-sm {
+     background:#000000;
+     box-shadow:0 0 20px #333;
+     height:50px;
+   }
+
+   .tour-nav-sm .logo {
+     margin-top:4px;
+     width:150px;
+     max-width:160px;
+   }
+
+    .tour-page #masthead {
+      display:none;
+    }
+
+    .tour-nav-sm .main-nav.left {
+      display:block;
+      left:160px;
+    }
+
+    .tour-nav-sm .main-nav li {
+      padding:0 1.2em;
+    }
+
+    .tour-nav-sm .main-nav li a {
+        color: #fff3c8;
+        font-size: 30px;
+        letter-spacing: .05em;
+        display: inline-block;
+        font-family: garage-gothic, sans-serif;
+        font-weight: 700;
+        margin-top:1px;
+    }
+
+    .tour-hed {
+      margin:0;
+      padding:0;
+      font-size:35px;
+    }
+
+    #tour-container {
+      width:90%;
+      margin-top:2em;
+    }
+
+     #tour-list .city, #tour-list .date, #tour-list .venue {
+         display:block;
+         width:100%;
+         margin:3px 0 0;
+     }
+
+     #tour-list p {
+ 	    position: relative;
+      padding:20px 0;
+     }
+
+     #tour-list {
+       font-size: 125%;
+     }
+
+     #tour-list {
+       margin:0em auto 0em;
+     }
+
+ 	#tour-list a.mobile-tix {
+    float: none;
+    font-size: 90%;
+    display: block;
+    margin-top:15px;
+ 	}
+
+  #tour-list .venue {
+    padding-right: 0em;
+
+  }
+
+  .tour-logo {
+    margin:2em auto;
+    text-align:center;
+    max-width:85%;
+  }
+
+  #tour-list a {
+    width:50%;
+    margin:0 auto;
+    float:none;
+    padding:.25em .75em;
+  }
+
+  .tour-top h4 {
+    font-size:150%;
+  }
+
+  a.tour-btn {
+    width:60%;
+  }
+
+ }
+
+ @media (max-width:400px) {
+   .tour-nav-sm .main-nav li a {
+        font-size: 25px;
+        margin-top:3px;
+    }
+
+    .tour-nav-sm .main-nav.left {
+      left:140px;
+    }
+
+    .tour-nav-sm .logo {
+          margin-top: 8px;
+          margin-left:4px;
+          width: 120px;
+          max-width: 160px;
+      }
+ }
 
 
