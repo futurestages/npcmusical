@@ -829,6 +829,7 @@ section#sub-section {
 /* logo scroller*/
 .logoslider {
     width: 2100; /* previously 2100*/
+    height: 200;
     margin: auto; /*previously auto*/
     overflow: visible; 
 }
