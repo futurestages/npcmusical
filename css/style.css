@@ -109,6 +109,7 @@ section#hero-section {
 .header_main_back{
     background: url(../img/hero_background.png);
     background-repeat: no-repeat;
+    background-size: auto;
     background-position: center center;
 }
 
