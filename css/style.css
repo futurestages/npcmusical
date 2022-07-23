@@ -826,4 +826,26 @@ section#sub-section {
 
 
 
-
+/* logo scroller*/
+.logoslider {
+    width: 2179px;
+    margin: auto;
+    overflow: visible;
+}
+.logoslider ul {
+    display: flex;
+    padding: 0;
+    animation: cambio 80s infinite linear;
+}
+.logoslider li {
+    padding:0 10px;
+    list-style: none;
+}
+.logoslider img {
+    max-width: fit-content !important;
+    height: auto !important;
+}
+@keyframes cambio {
+    from {margin-left: 0%}
+    to {margin-left: -100%}
+}
