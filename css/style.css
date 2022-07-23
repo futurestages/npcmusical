@@ -117,9 +117,7 @@ section#sub-section {
 }
 .header_sub_back{
     background: url(../img/bg-about.jpg);
-    height: 1200;
-    width: 900;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center center;
 }
 
@@ -188,7 +186,7 @@ section#sub-section {
   
   .slider .slide .info {
     position: absolute;
-    color: #222;
+    color: #111; /* this was dark gray */
     background-color: rgba(12, 0, 0, 0.5);
     width: 60%;
     margin-top: 100px;
@@ -453,6 +451,7 @@ section#sub-section {
 .flip-card-back {
   background-color: #db45bb;
   color: white;
+  text-align: center; /* added to test */
   transform: rotateY(180deg);
 }
 
@@ -515,12 +514,12 @@ section#sub-section {
 
 .tour-top {
   background:#db45bb;
-  color:#0a0806;
+  color:#0000FF; /* this was dark grey*/
   padding:10px 0;
 }
 
 .tour-top h3 {
-  color:#0a0806;
+  color:#008000; /* this was dark grey*/
   text-transform:uppercase;
   font-size:300%;
   margin:0;
