@@ -1,4 +1,4 @@
-logo: "/assets/images/logo.png"
+logo: "./img/logo.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Hubs is for anyone who wants to connect with others remotely!
   It's a great way to bring communities together in a shared virtual space.
@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hubs makes it easy to connect and share images, videos, 3D models, and more.
   With Hubs' spatialized audio you can have conversations with everyone together or
   break out into smaller groups &mdash; just like you can in person.
-baseurl: "/OnBoardXR_Landing_Page" # the subpath of your site, e.g. /blog
+baseurl: "/npcmusical" # the subpath of your site, e.g. /blog
 url: "https://futurestages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 exclude: [ "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",
