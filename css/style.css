@@ -511,15 +511,16 @@ section#sub-section {
   max-width:1000px;
   text-align:center;
 }
-
+/* tour top bar subheading */
 .tour-top {
   background:#db45bb;
-  color:#0000FF; /* this was dark grey*/
+  color:#fff; /* this was dark grey*/
   padding:10px 0;
 }
 
+/* tour top bar topheading */
 .tour-top h3 {
-  color:#008000; /* this was dark grey*/
+  color:#fff; /* this was dark grey*/
   text-transform:uppercase;
   font-size:300%;
   margin:0;
@@ -836,31 +837,3 @@ section#sub-section {
 }
 </style>
 
-
-#permas {
-  height: 150px;
-  bottom: 0;
-  background: blue;
-  position: absolute;
-  overflow:hidden;
-  overflow-y: hidden;
-  white-space:nowrap;
-  
-  /* added */
-  left: 0;
-  animation-name: scroll;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-#permas img {
-  height: 100%;
-}
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
