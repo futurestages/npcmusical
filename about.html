@@ -175,6 +175,63 @@
 </div>
 
     </section> 
+
+<section>
+    <script>
+    /**
+    *  Gallery Section Auto Scroller
+    **/
+  (function () {
+    setAutoScroll({
+      gallery: 1,
+      direction: 2,
+      timing: 3000,
+    });
+
+    /*
+    * Copy and paste the above code
+    * to target more auto-scrolling
+    * sections
+    **/
+
+    /** gallery
+    * gallery section order on the page. Ex:
+    * 1 = the first gallery section on a page,
+    * 2 = the second gallery section on a page
+    **/
+
+    /** direction
+    * direction the gallery should go in.
+    * 1 = backwards,
+    * 2 = forwards
+    **/
+
+    /** timing
+    * timing between each slide, in milliseconds. Ex:
+    * 2000 = 2 seconds
+    **/
+
+    function setAutoScroll(settings) {
+      function init() {
+        let section = document.querySelectorAll(".page-section.gallery-section")[settings.gallery - 1];
+
+        function clickArrow() {
+          if (section && !document.querySelector("html.sqs-modal-lightbox-open") && !document.hidden && !document.querySelector("body.sqs-edit-mode")) {
+            let arrow = section.querySelectorAll(".gallery-reel-control .gallery-reel-control-btn")[settings.direction - 1];
+            if (arrow) arrow.click();
+          }
+        }
+
+        window.setInterval(clickArrow, settings.timing);
+      }
+
+      window.addEventListener("DOMContentLoaded", init);
+    }
+  })();
+
+
+</script>
+</section>
     <section>
         <footer>
             <div class="footer_back">
