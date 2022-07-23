@@ -117,6 +117,8 @@ section#sub-section {
 }
 .header_sub_back{
     background: url(https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg);
+    height: 1200;
+    width: 900;
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -457,25 +459,21 @@ section#sub-section {
 /*containers*/
 /* Style the container with a rounded border, grey background and some padding and margin */
 .container {
-  border: 2px solid whi;
-  background-color: #eee;
+  border: 2px solid #db45bb;
+  background-color: #fff;
   border-radius: 5px;
   padding: 16px;
   margin: 16px 0;
   cursor: pointer;
-    
-    /* Pink */
-.showtime {
-  border-color: #db45bb;
-  color: pink;
 }
+    /* Pink */
 
 .success:hover {
   background-color: #db45bb;
   color: white;
 }
     
-}
+
 
 /* Clear floats after containers */
 .container::after {
