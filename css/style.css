@@ -842,7 +842,7 @@ section#sub-section {
     list-style: none;
 }
 .logoslider img {
-    max-width: 300 !important;
+    max-width: 100 !important;
     height: auto !important;
 }
 @keyframes cambio {
