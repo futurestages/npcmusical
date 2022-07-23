@@ -456,57 +456,7 @@ section#sub-section {
   transform: rotateY(180deg);
 }
 
-/*containers*/
-/* Style the container with a rounded border, grey background and some padding and margin */
-.container {
-  border: 2px solid #db45bb;
-  background-color: #fff;
-  border-radius: 5px;
-  padding: 16px;
-  margin: 16px 0;
-  cursor: pointer;
-}
-    /* Pink */
 
-.success:hover {
-  background-color: #db45bb;
-  color: white;
-}
-    
-
-
-/* Clear floats after containers */
-.container::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
-.container img {
-  float: left;
-  margin-right: 20px;
-  border-radius: 50%;
-}
-
-/* Increase the font-size of a span element */
-.container span {
-  font-size: 20px;
-  margin-right: 15px;
-}
-
-/* Add media queries for responsiveness. This will center both the text and the image inside the container */
-@media (max-width: 500px) {
-  .container {
-    text-align: center;
-  }
-
-  .container img {
-    margin: auto;
-    float: none;
-    display: block;
-  }
-}
 /* TOUR
    --------------------------------------------------*/
 
@@ -527,7 +477,7 @@ section#sub-section {
  }
 
  .tour-page .main-nav li a:hover, .tour-page .main-nav li a.active {
-   color:#fff3c8;
+   color:#db45bb;
    text-decoration:underline;
  }
 
@@ -564,7 +514,7 @@ section#sub-section {
 }
 
 .tour-top {
-  background:#fff3c8;
+  background:#db45bb;
   color:#0a0806;
   padding:10px 0;
 }
@@ -656,7 +606,7 @@ section#sub-section {
      text-transform:uppercase;
      text-align:left;
      font-family: garage-gothic, sans-serif;
-     font-weight: 700;
+     font-weight: 500;
      text-transform:uppercase;
      text-align:center;
      font-size:220%;
@@ -666,16 +616,16 @@ section#sub-section {
  #tour-list .date {
      width: 45%;
      font-size: 160%;
-     color:#fff3c8;
+     color:#db45bb;
      text-align:center;
     line-height: .8;
     font-family: garage-gothic, sans-serif;
-    font-weight: 700;
+    font-weight: 500;
  }
 
  #tour-list .venue {
      padding-right: 2em;
-     font-weight: 800;
+     font-weight: 500;
      line-height:1.3em;
      margin-top:5px;
      font-weight:normal;
@@ -700,7 +650,7 @@ section#sub-section {
      padding:.55em .75em;
      text-decoration:none;
      font-size:145%;
-     background:#d81214;
+     background:#db45bb;
      font-family: garage-gothic, sans-serif;
      font-weight: 700;
      width:20%;
@@ -709,7 +659,7 @@ section#sub-section {
  #tour-list a:hover,
  #tour-list a:focus {
     background:#fff3c8;
-    color:#d81214;
+    color:#db45bb;
      text-decoration: none;
  }
 
@@ -734,7 +684,7 @@ section#sub-section {
     padding: .25em .75em;
     text-decoration: none;
     font-size: 205%;
-    background: #d81214;
+    background: #db45bb;
     font-family: garage-gothic, sans-serif;
     font-weight: 700;
     width:40%;
@@ -743,7 +693,7 @@ section#sub-section {
 
  a.tour-btn:hover {
    background: #fff3c8;
-    color: #d81214;
+    color: #db45bb;
     text-decoration: none;
  }
 
@@ -794,7 +744,7 @@ section#sub-section {
         letter-spacing: .05em;
         display: inline-block;
         font-family: garage-gothic, sans-serif;
-        font-weight: 700;
+        font-weight: 500;
         margin-top:1px;
     }
 
