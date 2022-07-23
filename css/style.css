@@ -71,14 +71,14 @@ img{
 }
 .primary-menu a:hover,
 .primary-menu .active {
-    color:#ff4a04;   
+    color:#D846B9;   
 }
 .primary-menu li a:after {
     content: "";
     position: absolute;
     width: 0%;
     height: 2px;
-    background: #ff4a04;
+    background: #D846B9;
     bottom: 0px;
     left: 0;
     transition: all .5s;
@@ -116,7 +116,7 @@ section#sub-section {
   
 }
 .header_sub_back{
-    background: url(https://filterforge.com/filters/7766.jpg);
+    background: url(../img/bg-about.jpg);
     height: 1200;
     width: 900;
     background-repeat: repeat;
