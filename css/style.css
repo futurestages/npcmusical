@@ -830,5 +830,9 @@ section#sub-section {
           max-width: 160px;
       }
  }
-
-
+<style>
+.gallery-reel {
+  height: clamp(75px, 25vw, 200px) !important;
+  padding: 17px 0px !important;
+}
+</style>
