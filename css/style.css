@@ -829,7 +829,7 @@ section#sub-section {
 /* logo scroller*/
 .logoslider {
     width: auto; /* previously 2100*/
-    margin: none; /*previously auto*/
+    margin: auto; /*previously auto*/
     overflow: visible; 
 }
 .logoslider ul {
