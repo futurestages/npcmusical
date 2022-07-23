@@ -835,3 +835,32 @@ section#sub-section {
   padding: 17px 0px !important;
 }
 </style>
+
+
+#permas {
+  height: 150px;
+  bottom: 0;
+  background: blue;
+  position: absolute;
+  overflow:hidden;
+  overflow-y: hidden;
+  white-space:nowrap;
+  
+  /* added */
+  left: 0;
+  animation-name: scroll;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+#permas img {
+  height: 100%;
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
