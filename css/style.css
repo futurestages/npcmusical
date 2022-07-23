@@ -609,7 +609,7 @@ section#sub-section {
      font-weight: 500;
      text-transform:uppercase;
      text-align:center;
-     font-size:220%;
+     font-size:180%;
      margin-top:5px;
  }
 
@@ -646,19 +646,19 @@ section#sub-section {
      margin-bottom: 0;
      line-height: 1;
      text-align: center;
-     color:#fff3c8;
+     color:#db45bb;
      padding:.55em .75em;
      text-decoration:none;
      font-size:145%;
      background:#db45bb;
      font-family: garage-gothic, sans-serif;
-     font-weight: 700;
+     font-weight: 500;
      width:20%;
  }
 
  #tour-list a:hover,
  #tour-list a:focus {
-    background:#fff3c8;
+    background:#ffffff;
     color:#db45bb;
      text-decoration: none;
  }
@@ -683,16 +683,16 @@ section#sub-section {
     color: #fff3c8;
     padding: .25em .75em;
     text-decoration: none;
-    font-size: 205%;
+    font-size: 165%;
     background: #db45bb;
     font-family: garage-gothic, sans-serif;
-    font-weight: 700;
+    font-weight: 500;
     width:40%;
     margin:0 auto 3em;
  }
 
  a.tour-btn:hover {
-   background: #fff3c8;
+   background: #ffffff;
     color: #db45bb;
     text-decoration: none;
  }
