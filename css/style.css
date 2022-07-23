@@ -575,9 +575,9 @@ section#sub-section {
   font-style: normal;
   font-weight: 800;
 }
-/* tour list section - blue */
+/* border of individual showtimes - pink */
 #tour-list p {
-  border:1px solid #0000FF;
+  border:1px solid #db45bb;
   margin:15px 0;
   padding:2.5em 0;
 }
@@ -680,7 +680,7 @@ section#sub-section {
     margin-bottom: 0;
     line-height: 1;
     text-align: center;
-    color: #fff;/* button was pink now white */
+    color: #fff;/* subscribe bottom button */
     padding: .25em .75em;
     text-decoration: none;
     font-size: 165%;
@@ -737,9 +737,9 @@ section#sub-section {
     .tour-nav-sm .main-nav li {
       padding:0 1.2em;
     }
-
+/* tour navigation - green */
     .tour-nav-sm .main-nav li a {
-        color: #d81214;
+        color: #008000;
         font-size: 30px;
         letter-spacing: .05em;
         display: inline-block;
