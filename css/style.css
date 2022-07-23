@@ -453,3 +453,61 @@ section#sub-section {
   color: white;
   transform: rotateY(180deg);
 }
+
+/*containers*/
+/* Style the container with a rounded border, grey background and some padding and margin */
+.container {
+  border: 2px solid whi;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+  cursor: pointer;
+    
+    /* Pink */
+.showtime {
+  border-color: #db45bb;
+  color: pink;
+}
+
+.success:hover {
+  background-color: #db45bb;
+  color: white;
+}
+    
+}
+
+/* Clear floats after containers */
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Increase the font-size of a span element */
+.container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+/* Add media queries for responsiveness. This will center both the text and the image inside the container */
+@media (max-width: 500px) {
+  .container {
+    text-align: center;
+  }
+
+  .container img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+}
+
+
