@@ -118,7 +118,7 @@ section#sub-section {
 .header_sub_back{
     background: url(../img/bg-about.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top center;
 }
 
 
