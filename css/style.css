@@ -22,7 +22,7 @@ img{
 .header-area {
    
     width: 100%;
-    padding: 12px 30px;
+    padding: 12px 30px; /*originally 21 30 */
     z-index: 999;
     height: 15vh;
     background: url(../img/nav_back.png);
@@ -57,7 +57,7 @@ img{
 }
 .primary-menu li {
     display: inline-block;
-    margin: 21px 5px;
+    margin: 11px 5px; /* originally 21 5*/
 }
 .primary-menu a {
     color: #fff;
@@ -66,7 +66,7 @@ img{
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 25px;
-    padding: 15px 10px;
+    padding: 10px 10px;
     transition: .5s;
 }
 .primary-menu a:hover,
@@ -119,6 +119,8 @@ section#sub-section {
 .header_sub_back{
     background: url(../img/bg-about.jpg);
     background-repeat: no-repeat;
+    /*  max-width: 100%;*/
+    background-size: cover;
     background-position: top center;
 }
 
@@ -319,6 +321,7 @@ section#sub-section {
     border: 3px solid #fff;
     font-weight:600;
     font-size: 30px;
+      padding: 30px;
   }
 .footer_back{
     background: url(../img/footer_back.png);
@@ -830,7 +833,6 @@ section#sub-section {
 /* logo scroller*/
 .logoslider {
     width: 2100; /* previously 2100*/
-    height: 200;
     margin: auto; /*previously auto*/
     overflow: visible; 
 }
@@ -844,7 +846,7 @@ section#sub-section {
     list-style: none;
 }
 .logoslider img {
-    max-width: fit-component !important;/*previously auto*/
+    max-width: fit-component !important;
     height: auto !important;
 }
 @keyframes cambio {
