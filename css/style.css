@@ -415,8 +415,8 @@ section#sub-section {
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   border: 1px solid #f1f1f1;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
@@ -832,7 +832,7 @@ section#sub-section {
 
 /* logo scroller*/
 .logoslider {
-    width: 2100; /* previously 2100*/
+    width: auto; /* previously 2100*/
     margin: auto; /*previously auto*/
     overflow: visible; 
 }
@@ -847,7 +847,7 @@ section#sub-section {
 }
 .logoslider img {
     max-width: fit-component !important;
-    height: auto !important;
+    height: 150 !important;
 }
 @keyframes cambio {
     from {margin-left: 0%}
