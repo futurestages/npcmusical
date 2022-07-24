@@ -832,22 +832,22 @@ section#sub-section {
 
 /* logo scroller*/
 .logoslider {
-    width: auto; /* previously 2100*/
-    margin: auto; /*previously auto*/
-    overflow: visible; 
+    width: 2179px;
+    margin: auto;
+    overflow: visible;
 }
-.logoslider ul {
+.slider ul {
     display: flex;
     padding: 0;
     animation: cambio 80s infinite linear;
 }
-.logoslider li {
-    padding:0 0px;
+.slider li {
+    padding:0 10px;
     list-style: none;
 }
-.logoslider img {
-    max-width: fit-component !important;
-    height: 150 !important;
+.slider img {
+    max-width: fit-content !important;
+    height: auto !important;
 }
 @keyframes cambio {
     from {margin-left: 0%}
