@@ -22,7 +22,7 @@ img{
 .header-area {
    
     width: 100%;
-    padding: 12px 30px; /*originally 21 30 */
+    padding: 12px 10px; /*originally 21 30 */
     z-index: 999;
     height: 15vh;
     background: url(../img/nav_back.png);
