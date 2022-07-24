@@ -836,16 +836,16 @@ section#sub-section {
     margin: auto;
     overflow: visible;
 }
-.slider ul {
+.logoslider ul {
     display: flex;
     padding: 0;
     animation: cambio 80s infinite linear;
 }
-.slider li {
+.logoslider li {
     padding:0 10px;
     list-style: none;
 }
-.slider img {
+.logoslider img {
     max-width: fit-content !important;
     height: auto !important;
 }
