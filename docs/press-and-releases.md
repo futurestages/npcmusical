@@ -28,7 +28,8 @@ In a solo, hybrid performance called *“punchy and powerful”* by [TJPL News](
 [KIMU](https://karlismyunkle.com/2022/07/07/brendan-bradley-taps-into-futurism-for-his-npc-musical-reprogram-me/) elaborates 
 > *“Fans of Disney and other Musicals will definitely connect with ‘Reprogram Me,’ although it is clear that Brendan Bradley is creating a universe of his own. Brendan Bradley sees a future where this experience could energize art-house audiences in theatre type settings, similar to cult classics like The Rocky Horror Picture Show or Frozen Sing-Along, combining live performers, cinema, audience participation and sing-alongs.”*
 
-*“Brendan Bradley’s virtual reality musical Non-Player Character debuts on Top Soundtrack Chart with first single ‘Reprogram Me’ arriving at No. 25 on iTunes,”* reports [Muzique Magazine](https://muziquemagazine.com/brendan-bradleys-virtual-reality-musical/) with [Info Music](https://www.infomusic.fr/plongez-dans-un-monde-virtuel-avec-brendan-bradley-et-son-titre-reprogram-me/) inviting readers to 
+“Brendan Bradley’s virtual reality musical Non-Player Character debuts on Top Soundtrack Chart with first single ‘Reprogram Me’ arriving at No. 25 on iTunes,”* reports [Muzique Magazine](https://muziquemagazine.com/brendan-bradleys-virtual-reality-musical/) 
+with [Info Music](https://www.infomusic.fr/plongez-dans-un-monde-virtuel-avec-brendan-bradley-et-son-titre-reprogram-me/) inviting readers to 
 > *“Immerse yourself in a virtual world with Brendan Bradley,”* 
  
 in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresenta-reprogram-me-workshop-cast-recording-non-player-character-the-musical-uma-fantastica-experiencia-audiovisual/) called, 
