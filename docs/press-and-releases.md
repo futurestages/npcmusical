@@ -5,7 +5,7 @@ parent: Press
 nav_order: 1
 ---
 ## Request Interview / Press Pass
-We welcome any coverage of *Non-Player Character*. Please contact *info (at) jigsawensemble (dot) com* for media requests and/or complimentary/private performances. Below please find general press materials for use in promoting or reviewing *Non-Player Character*. Thank you! 
+We welcome all coverage of *Non-Player Character*. Please contact *info (at) jigsawensemble (dot) com* for media requests and/or complimentary/private performances. Below please find approved press materials and pull quotes. Thank you! 
 
 ## *Non-Player Character* in the Press 
 Imagine if a Disney musical came to life and interacted with the audiences in what [Fame Magazine](https://www.famemagazine.co.uk/brendan-bradleys-reprogram-me-a-dream-pop-immersive-experience-between-vr-and-live-theater/) calls,
@@ -44,9 +44,10 @@ Non-Player Character’s second single [‘Hero’s Welcome’](https://distroki
 
 ## Awards
  - Winner, Queensland XR Best Virtual Reality Interactive Immersive Experience 2021
- - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021
- - Finalist, No Proscenium Audience Award 2021/22
  - Finalist, The Auggie Awards Indie Creator(s) Award 2022
+ - Finalist, No Proscenium Audience Award 2021/22
+ - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021
+
  - Official Selection, FIVARS 2021
  - Official Selection, Mozilla Festival 2021
  - Official Selection, Palm Springs International Animation Festival 2022
