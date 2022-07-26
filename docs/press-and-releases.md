@@ -47,7 +47,6 @@ in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresen
  - Finalist, The Auggie Awards Indie Creator(s) Award 2022
  - Finalist, No Proscenium Audience Award 2021/22
  - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021
-
  - Official Selection, FIVARS 2021
  - Official Selection, Mozilla Festival 2021
  - Official Selection, Palm Springs International Animation Festival 2022
