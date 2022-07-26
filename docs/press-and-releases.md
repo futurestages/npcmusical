@@ -14,9 +14,9 @@ Imagine if a Disney musical came to life and interacted with the audiences in wh
 The [*Non-Player Character* Soundtrack](https://music.apple.com/album/1634852775?app=itunes), written and performed by Brendan Bradley was arranged and produced by Maurice Soque Jr. from Bradley’s live, virtual reality stage show about a non-player character in a video game who witnesses the death of the Hero and turns to the audience to navigate the five stages of grief (represented as five virtual worlds).
 
 [Plastic Magazine](https://plasticmag.co.uk/2022/07/25/new-music-from-brendan-bradley/) explains 
-> *“Blending ingredients of pop music, video games, broadway and comedy into his new pioneering spectacle, Brendan Bradley has brought to life a show that would have seemed impossible to create only a couple of years ago,” 
+> *“Blending ingredients of pop music, video games, broadway and comedy into his new pioneering spectacle, Brendan Bradley has brought to life a show that would have seemed impossible to create only a couple of years ago,”*
 
-with Dancing About Architecture adding, 
+with [Dancing About Architecture](https://dancing-about-architecture.com/heros-welcome-brendan-bradley-reviewed-by-dave-franklin/) adding, 
 > *“it isn’t often that something comes along that is so revolutionary that it blurs the lines between mediums. But that is the charge that Brendan Bradley is leading… buoyant and full of life, sitting somewhere between a Disney production, a choose-your-own-adventure experience and an IT helpline, both tongue-in-cheek and informative, and peppered with plenty of knowing winks and in-jokes for the gamers in the audience.”*
 
 In a solo, hybrid performance called *“punchy and powerful”* by [TJPL News](https://www.tjplnews.com/post/who-s-ya-favourite-chart-dance-pop-22-07-2022) and *“full of attitude and innovation”* according to [Indie o’clock](http://indiedockmusicblog.co.uk/?p=13991), 
