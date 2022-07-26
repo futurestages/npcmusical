@@ -26,4 +26,4 @@ Information Button
 Settings
 
 ## Refunds
-*Non-Player Character* is primarily performed through outside festivals and institutions around the world and we adhere to any existing policies and/or code of conduct. Our virtual workshops are invite-only and specifically intended to stress-test new, experimental features of the show and therefore refunds cannot be issued. If you feel strongly about a refund, please contact us at info (at) jigsawensemble (dot) com and we will make our best effort to resolve your concern as soon as possible.
+*Non-Player Character* is primarily performed through outside festivals and institutions around the world and we are not responbile for their existing policies and/or code of conduct. Our virtual workshops are invite-only and specifically intended to stress-test new, experimental features of the show and therefore refunds cannot be issued. If you feel strongly about a refund, please contact us at info (at) jigsawensemble (dot) com and we will make our best effort to resolve your concern as soon as possible.
