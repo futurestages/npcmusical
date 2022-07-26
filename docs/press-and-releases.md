@@ -49,3 +49,9 @@ Non-Player Character’s second single [‘Hero’s Welcome’](https://distroki
  - Official Selection, Palm Springs International Animation Festival 2022
  - Finalist, No Proscenium Audience Award 2021/22
  - Finalist, The Auggie Awards Indie Creator(s) Award 2022
+
+## Media Assets
+- Approved Stills
+- Approved Logo(s)
+- Approved Clips
+- Request additional materials by emailing *info (at) jigsawensemble (dot) com*
