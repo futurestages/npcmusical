@@ -52,7 +52,7 @@ Non-Player Character’s second single [‘Hero’s Welcome’](https://distroki
  - Finalist, The Auggie Awards Indie Creator(s) Award 2022
 
 ## Media Assets
-- Approved Stills
-- Approved Logo(s)
-- Approved Clips
-- Request additional materials by emailing *info (at) jigsawensemble (dot) com*
+- [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
+- [Approved Logo(s)](https://www.dropbox.com/sh/6ly0oifrs1en1y9/AAD8GauaqdKzN45KjSVC82Cka?dl=0)
+- Approved Clips (coming soon)
+- Request additional materials by emailing **info (at) jigsawensemble (dot) com**
