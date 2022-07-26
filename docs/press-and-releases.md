@@ -28,14 +28,14 @@ In a solo, hybrid performance called *“punchy and powerful”* by [TJPL News](
 [KIMU](https://karlismyunkle.com/2022/07/07/brendan-bradley-taps-into-futurism-for-his-npc-musical-reprogram-me/) elaborates 
 > *“Fans of Disney and other Musicals will definitely connect with ‘Reprogram Me,’ although it is clear that Brendan Bradley is creating a universe of his own. Brendan Bradley sees a future where this experience could energize art-house audiences in theatre type settings, similar to cult classics like The Rocky Horror Picture Show or Frozen Sing-Along, combining live performers, cinema, audience participation and sing-alongs.”*
 
-“Brendan Bradley’s virtual reality musical Non-Player Character debuts on Top Soundtrack Chart with first single ‘Reprogram Me’ arriving at No. 25 on iTunes,” reports [Muzique Magazine](https://muziquemagazine.com/brendan-bradleys-virtual-reality-musical/) 
+“Brendan Bradley’s virtual reality musical *Non-Player Character* debuts on Top Soundtrack Chart with first single ‘Reprogram Me’ arriving at No. 25 on iTunes,” reports [Muzique Magazine](https://muziquemagazine.com/brendan-bradleys-virtual-reality-musical/) 
 with [Info Music](https://www.infomusic.fr/plongez-dans-un-monde-virtuel-avec-brendan-bradley-et-son-titre-reprogram-me/) inviting readers to 
 > *“Immerse yourself in a virtual world with Brendan Bradley,”* 
  
 in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresenta-reprogram-me-workshop-cast-recording-non-player-character-the-musical-uma-fantastica-experiencia-audiovisual/) called, 
 > *“A delightful and fascinating piece of live musical theater in web-based virtual reality that anyone can watch in their browser, even without a VR headset.”*
 
-“In the story, Bradley fully improvises with four audience participants in virtual reality headsets and the seated spectator audience watching on the big screen with only the safety net of his songs to regain control of the show to elegantly transition the audience between acts of this co-created catharsis,” from [Urbanista](https://urbanistamagazine.uk/brendan-bradleys-virtual-reality-musical-non-player-character-debuts-on-top-soundtrack-chart-with-first-single-reprogram-me-arriving-at-no-25-on-itunes/), “Bradley sings while literally gathering the audience in the palm of his hand and lifting us into the game world using mechanics that could only happen in virtual reality…I can honestly say a performer has never scooped me up and sung to me before and it’s easy to see why Non-Player Character won [Best Interactive Virtual Reality Experience](https://twitter.com/qldxrfestival/status/1520401672698494977?s=20&t=zkpCcUd1C4V1CZtXnPGk8g) at Queensland XR Festival earlier this year.”
+“In the story, Bradley fully improvises with four audience participants in virtual reality headsets and the seated spectator audience watching on the big screen with only the safety net of his songs to regain control of the show to elegantly transition the audience between acts of this co-created catharsis,” from [Urbanista](https://urbanistamagazine.uk/brendan-bradleys-virtual-reality-musical-non-player-character-debuts-on-top-soundtrack-chart-with-first-single-reprogram-me-arriving-at-no-25-on-itunes/), “Bradley sings while literally gathering the audience in the palm of his hand and lifting us into the game world using mechanics that could only happen in virtual reality…I can honestly say a performer has never scooped me up and sung to me before and it’s easy to see why *Non-Player Character* won [Best Interactive Virtual Reality Experience](https://twitter.com/qldxrfestival/status/1520401672698494977?s=20&t=zkpCcUd1C4V1CZtXnPGk8g) at Queensland XR Festival earlier this year.”
 
 ## Current Call To Action 
 Non-Player Character’s second single [‘Hero’s Welcome’](https://distrokid.com/hyperfollow/brendanbradley/reprogram-me-workshop-cast-recording-abridged-version) is streaming everywhere July 22nd with the full album release September 2nd. 
@@ -43,13 +43,13 @@ Non-Player Character’s second single [‘Hero’s Welcome’](https://distroki
 - Please embed [Spotify Playlist](https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9) or [YouTube Playlist](https://www.youtube.com/playlist?list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5)
 
 ## Awards
- - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021
  - Winner, Queensland XR Best Virtual Reality Interactive Immersive Experience 2021
+ - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021
+ - Finalist, No Proscenium Audience Award 2021/22
+ - Finalist, The Auggie Awards Indie Creator(s) Award 2022
  - Official Selection, FIVARS 2021
  - Official Selection, Mozilla Festival 2021
  - Official Selection, Palm Springs International Animation Festival 2022
- - Finalist, No Proscenium Audience Award 2021/22
- - Finalist, The Auggie Awards Indie Creator(s) Award 2022
 
 ## Media Assets
 - [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
