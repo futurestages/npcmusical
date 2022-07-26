@@ -20,7 +20,7 @@ We are a grateful for your support and coverage of *Non-Player Character.* If yo
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5)
 
 ## Pull Quotes & Awards
-- Please see [Press & Releases](./press-and-releases/)
+- Please see [Press & Releases](../press-and-releases/)
 
 ## Media Assets
 - [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
