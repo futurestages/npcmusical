@@ -5,21 +5,12 @@ parent: Overview
 nav_order: 1
 ---
 
-## Ahoy there! 
+## Welcome! 
 
-**OnBoardXR** supports live performance prototypes utilizing extended reality and immersive web technologies. We offer a first-look at content, talent and tools collaborating to educate, inspire, accelerate and empower live events in the 3D web, coloquially referred to as "the metaverse". OnBoardXR has been best described as a blend of [The Edinburgh Fringe Festival](https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe) and [The Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) and supported 25+ world premiere prototyes for live theater, dance, music, art, puppetry, fooling, improv and more.
+**Non-Player Character** is an original musical theater piece performed live inside web-based virtual reality. The story follows a non-player character in a fictitious video game who witnesses the death of the hero character and turns to the audience for assistance processing the five stages of grief (represented as five virtual worlds). 
 
-## Community
-The OnBoardXR Community serves as the nexus of its operations and outreach, inviting self-generative artists and technologists from anywhere in the world to bring their creative practice into virtual reality by accessing **knowledge-sharing, resources and fellowship via a shared Discord server**. During performances, the Discord Community also serves as customer relations for attendees and backstage communication for performers. 
+The show was conceived and developed by Brendan Bradley through his own OnBoardXR seasonal showcase to support live performance in new technology, with individual song workshops in the Fall of 2021 at FIVARS Festival and in March 2022 at Mozilla Festival with Bradley's performance supported by techincal direction from Michael Morran and music arrangment from Maurice Soque Jr. 
 
-## Seasonal Sandbox
-OnBoardXR began as an early prototype for live theater in ['web-based virtual reality'](https://en.wikipedia.org/wiki/WebXR) (or "WebVR") during the 2020 shutdown. In an effort to support live performing artists without a venue, OnBoardXR hosts **an open-submission "hackathon" every quarter where applicants participate in a 3-week "sprint" to stand up their very first virtual reality performance as part of an anthology or evening of acts within a shared multi-user experience.** Participants are provided ['soft support']() to optimize and elevate 3D assets and presentations into a curated and organized run-of-show for a live, ticketed audience. The format is most comparable to a cabaret or short film festival where individual acts are presented as a singular show loosely connected by a theme and emcees  
+In December 2021, Non-Player Character was invited to stage a "prototype performance" at The Museum of Science's Mugar Omni Theater in Boston. The show was performed as a 15-minute "loop" for eight consecutive audiences, with four audience participants wearing virtual reality headsets while the experience was projected on the giant, domed IMAX screen. Bradley performed live in-headset and wearing a N95 mask to comply with COVID prototcols. 
 
-## Cue System
-As a performance-centric platform, the OnBoardXR team aims to explore virtual reality technology to best simulate live performance acts on stage. This has resulted in our own custom cue system enabling performers and event coordinators to trigger scripted events to alter the virtual scenery, lighting, and media, simialr to [QLab](https://en.wikipedia.org/wiki/QLab). While these events are rooted in what theater makers may expect from a traditional venue's technical interface, OnBoardXR seeks to embrace the affordances of virtual reality to offer more performer control over events like scale, flying, etc. 
-
-## Experience as a Service (EaaS)
-OnBoardXR represents a fleet of talent and tools to support accessible and emotionally resonate live experiences and events in the immersive web and developing and training the next generation of storytellers with bespoke tools to artist and audience management, ticketing, onboarding, secondary-streaming, and documentation.  
-
-## Culture
-OnBoardXR models its Community, Performances and Toolkit after the [free-and-open](https://en.wikipedia.org/wiki/Open_source#%22Open%22_versus_%22free%22_versus_%22free_and_open%22) practices that made/make online creatorship possible. Participants in OnBoardXR own and control their original creations while the broader community benefits from their learnings and continued success. Tickets are offered at a pay-what-you-want donation to ensure access to anyone who wishes to experience artists work and all revenues are split between participants. OnBoardXR shares its press, festival inclusions and awards with all its participating creators. This culture of abundance is only made possible by the self-generative nature of its artists, the generosity of its voluneeers and the reciprocal commitment of its participants to support and elevate the entire virtual performance community. 
+A Workshop Cast Recording was released in September 2022 using a mix of recorded gameplay and studio recordings from Bradley and select participants. The first single, 'Reprogram Me' debuted on iTunes Top Soundtrack Charts and was critically celebrated by indepedent music and gaming blogs. 
