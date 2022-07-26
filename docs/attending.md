@@ -6,6 +6,9 @@ nav_order: 2
 ---
 
 ## What Is *Non-Player Character*?
+
+**“A BLEND OF THEATRE AND VIDEO GAMES”** - [Young-Howze Theatre Journal](https://www.instagram.com/p/Ca0lsrOO7wl/)
+
 *Non-Player Character* is a musical theater play performed live using gaming mechanics and animations in virtual reality. Remote ticket links offer access to a multi-user virtual world where you may interact with the live performers and other attendees using your web-connected device. The show is also performed live in cinema venues, with select audience wearing vr headsets and directly interacting with the live performer in front of the movie screen. The virtual world is then projected onto the giant screen for seated spectators to watch both the performer and the projected image.
 
 ## What Equipment Do I Need?
