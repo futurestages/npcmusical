@@ -11,7 +11,7 @@ We welcome all coverage of *Non-Player Character*. Please contact *info (at) jig
 Imagine if a Disney musical came to life and interacted with the audiences in what [Fame Magazine](https://www.famemagazine.co.uk/brendan-bradleys-reprogram-me-a-dream-pop-immersive-experience-between-vr-and-live-theater/) calls,
 > *“a dream-pop immersive experience between VR and live theater… a flawless blend of Broadway, games, pop, and comedy bliss.”*
 
-The [*Non-Player Character* Soundtrack](https://music.apple.com/album/1634852775?app=itunes), written and performed by Brendan Bradley was arranged and produced by Maurice Soque Jr. from Bradley’s live, virtual reality stage show about a non-player character in a video game who witnesses the death of the Hero and turns to the audience to navigate the five stages of grief (represented as five virtual worlds).
+[*Non-Player Character*](https://music.apple.com/album/1634852775?app=itunes), written and performed by Brendan Bradley as a live, virtual reality stage show about a non-player character in a video game who witnesses the death of the Hero and turns to the audience to navigate the five stages of grief (represented as five virtual worlds). Techincal Direction is provided by Michael Morran while the show's music and soundtrack are arranged and produced by Maurice Soque Jr. 
 
 [Plastic Magazine](https://plasticmag.co.uk/2022/07/25/new-music-from-brendan-bradley/) explains 
 > *“Blending ingredients of pop music, video games, broadway and comedy into his new pioneering spectacle, Brendan Bradley has brought to life a show that would have seemed impossible to create only a couple of years ago,”*
