@@ -31,7 +31,7 @@ and [Rising Artists](https://risingartistsblog.com/2022/07/25/heros-welcome-by-b
 > *“anyone who still finds joy in a joystick will appreciate this Tenacious D meets ‘Yo Gabba Gabba’ moment.”*
 
 [KIMU](https://karlismyunkle.com/2022/07/07/brendan-bradley-taps-into-futurism-for-his-npc-musical-reprogram-me/) elaborates how *Non-Player Character* provides a model for interactive, hybrid storytelling across the globe,
-> *“it is clear that Brendan Bradley is creating a universe of his own...a future where this experience could energize art-house audiences in theatre type settings, similar to cult classics like *The Rocky Horror Picture Show* or *Frozen Sing-Along*, combining live performers, cinema, audience participation and sing-alongs.”*
+> *“it is clear that Brendan Bradley is creating a universe of his own...a future where this experience could energize art-house audiences in theatre type settings, similar to cult classics like The Rocky Horror Picture Show or Frozen Sing-Along, combining live performers, cinema, audience participation and sing-alongs.”*
 
 “Brendan Bradley’s virtual reality musical *Non-Player Character* debuts on Top Soundtrack Chart with first single ‘Reprogram Me’ arriving at No. 25 on iTunes,” reports [Muzique Magazine](https://muziquemagazine.com/brendan-bradleys-virtual-reality-musical/) 
 with [Info Music](https://www.infomusic.fr/plongez-dans-un-monde-virtuel-avec-brendan-bradley-et-son-titre-reprogram-me/) inviting readers to 
