@@ -8,7 +8,7 @@ nav_order: 1
 We welcome all coverage of *Non-Player Character*. Please contact *info (at) jigsawensemble (dot) com* for media requests and/or complimentary/private performances. Below please find approved press materials and pull quotes. Thank you! 
 
 ## *Non-Player Character* in the Press 
-Imagine if a Disney musical came to life and interacted with the audiences in what [Fame Magazine](https://www.famemagazine.co.uk/brendan-bradleys-reprogram-me-a-dream-pop-immersive-experience-between-vr-and-live-theater/) calls,
+Imagine if a Disney musical came to life and interacted with audiences in what [Fame Magazine](https://www.famemagazine.co.uk/brendan-bradleys-reprogram-me-a-dream-pop-immersive-experience-between-vr-and-live-theater/) calls,
 > *“a dream-pop immersive experience between VR and live theater… a flawless blend of Broadway, games, pop, and comedy bliss.”*
 
 [*Non-Player Character*](https://music.apple.com/album/1634852775?app=itunes), written and performed by Brendan Bradley as a live, virtual reality stage show about a non-player character in a video game who witnesses the death of the Hero and turns to the audience to navigate the five stages of grief (represented as five virtual worlds). Techincal Direction is provided by Michael Morran while the show's music and soundtrack are arranged and produced by Maurice Soque Jr. 
