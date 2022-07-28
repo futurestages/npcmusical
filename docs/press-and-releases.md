@@ -25,7 +25,7 @@ In a solo, hybrid performance called *“punchy and powerful”* by [TJPL News](
 > *“Bradley plays various characters inside a fictional video game, pioneering a new kind musical style that could be the future of entertainment,”* reports [Daily Music Roll](https://www.dailymusicroll.com/entertainment/listen-to-the-future-of-musicals-with-the-virtual-reality-track-reprogram-me-by-brendan-bradley.html), *“incorporating danceable beats and catchy electro-pop soundscapes…with an auto-tuned tremolo offering the virtual soul of Bradley’s characters in the vein of Owl City, Bo Burnham, and Wall-E.* 
 
  [WEAREYMX](https://www.weareymx.com/ymxblog/musical-theatre-and-the-metaverse-brendan-bradley-is-busy-innovating) adds in 'Musical Theater in the Metaverse,'
- > *"a high-tech but authentic approach to virtual theatre, with a focus on immersive user experience and rich music background."
+ > *"a high-tech but authentic approach to virtual theatre, with a focus on immersive user experience and rich music background."*
 
 and [Rising Artists](https://risingartistsblog.com/2022/07/25/heros-welcome-by-brendan-bradley/) raves, 
 > *“anyone who still finds joy in a joystick will appreciate this Tenacious D meets ‘Yo Gabba Gabba’ moment.”*
