@@ -15,6 +15,7 @@ We are a grateful for your support and coverage of *Non-Player Character.* If yo
 
 ## Artist Statement 
 (coming soon)
+- [Inteview with RGM Magazine](https://rgm.press/rgm-introducing-we-interview-la-artist-brendan-bradley/interview/)
 
 ## Music Playlist
 - [Full Soundtrack on iTunes](https://music.apple.com/album/1634852775?app=itunes&ign-itscg=30200&ign-itsct=toolbox_linkbuilder)
