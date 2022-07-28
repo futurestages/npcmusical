@@ -127,10 +127,10 @@ Purpose: When viewing a mobile site (old mobile under m.domain.com) it will forc
 
 ### Third Party Cookies
 
-> hs: Session, Strictly necessary
-> 
-> Purpose: Security
-> 
+hs: Session, Strictly necessary
+
+ Purpose: Security
+ 
 > 
 > 
 > TS*: Session, Functional
@@ -145,29 +145,29 @@ Purpose: When viewing a mobile site (old mobile under m.domain.com) it will forc
 > 
 > 
 > 
-​TSxxxxxxxx (where x is replaced with a random series of numbers and letters): Session, Functional
-
-Purpose: Security
-
- 
-
-​TSxxxxxxxx_d (where x is replaced with a random series of numbers and letters): Session, Functional
-
-Purpose: Security
-
-​
-
-SSR-caching: Persistent (1 minute), Functional
-
-Purpose: Indicates how a site was rendered
-
-​
-
-svSession: Persistent (Two years), Functional
-
-Purpose: Identifies unique visitors and tracks a visitor’s sessions on a site
-
-​​
+> TSxxxxxxxx (where x is replaced with a random series of numbers and letters): Session, Functional
+>
+> Purpose: Security
+>
+>
+>
+> TSxxxxxxxx_d (where x is replaced with a random series of numbers and letters): Session, Functional
+>
+> Purpose: Security
+>
+>
+>
+> SSR-caching: Persistent (1 minute), Functional
+>
+> Purpose: Indicates how a site was rendered
+> 
+> 
+> 
+> svSession: Persistent (Two years), Functional
+> 
+> Purpose: Identifies unique visitors and tracks a visitor’s sessions on a site
+> 
+ 
 
 ### Use of Data
 
