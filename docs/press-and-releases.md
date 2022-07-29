@@ -34,7 +34,7 @@ and [Rising Artists](https://risingartistsblog.com/2022/07/25/heros-welcome-by-b
 > *“it is clear that Brendan Bradley is creating a universe of his own...a future where this experience could energize art-house audiences in theatre type settings, similar to cult classics like The Rocky Horror Picture Show or Frozen Sing-Along, combining live performers, cinema, audience participation and sing-alongs.”*
 
 and [Pop Hits News](https://mw3.news/pophits/artist/shout-out/non-player-character-by-brendan-bradley-virtual-reality-technology-and-innovation-are-revolutionizing-musical-performances/) sees a broader trend revealed by *Non-Player Character*,
-> *"visionary producers like Bradley are making it possible to create a Metaverse where audiences and performers can exist and interact at the same time, which is exactly what independent artists needed right now."*
+> *"visionary producers like Bradley are making it possible to create a Metaverse where audiences and performers can exist and interact at the same time, which is exactly what independent artists need right now."*
 
 “Brendan Bradley’s virtual reality musical *Non-Player Character* debuts on Top Soundtrack Chart with first single ‘Reprogram Me’ arriving at No. 25 on iTunes,” reports [Muzique Magazine](https://muziquemagazine.com/brendan-bradleys-virtual-reality-musical/) 
 with [Info Music](https://www.infomusic.fr/plongez-dans-un-monde-virtuel-avec-brendan-bradley-et-son-titre-reprogram-me/) inviting readers to 
