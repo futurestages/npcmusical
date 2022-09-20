@@ -12,7 +12,7 @@ You can control the adventure in an original musical performance in your web bro
 
 ### Quick Links
 - [Enter the Lobby / Tutorial Room](https://onboardxr.live/FQJnyUZ/listening/?k=listener)
-- [Get Soundtrack](https://music.apple.com/album/1634852775?app=itunes)
+- [Get Soundtrack](https://music.apple.com/us/album/non-player-character-workshop-musical-cast-recording/1634852775?app=itunes)
 - [Tickets and Secret Shows](https://futurestages.github.io/npcmusical/tickets)
 - [Meet the Team](https://futurestages.github.io/npcmusical/about.html)
 
