@@ -14,6 +14,8 @@ nav_order: 2
 ## What Equipment Do I Need?
 *Non-Player Character* utilizes web-based virtual reality, also known as “social VR” or “WebXR” built upon the open-source client, [Mozilla Hubs. (You can learn more about that platform here.)](https://hubs.mozilla.com/docs/welcome.html) This allows (almost) any web connected device to enter a 3D virtual environment as a multi-player experience with other attendees represented as 3D avatars. This means you do not require *any* special equipment to join our virtual experience. 
 
+> * [You can test your own device by clicking here to access our onboarding lobby.](https://onboardxr.live/FQJnyUZ/listening/?k=listener)
+
 Venued performances have taken place in cinemas with select audience wearing VR headsets and directly interacting with the live performer in front of the movie screen. The virtual world is then projected onto the giant screen for seated spectators to watch both the performer and the projected image.
 
 ## Ticketing
