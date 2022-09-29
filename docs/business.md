@@ -19,7 +19,7 @@ The show is most successful when our team has an opportunity for a tech rehearsa
 ### Livestreaming
 The virtual experience can be broadcast to practically any livestreaming platform by screen sharing the POV of a user. Furthermore, we have designed a "cinema track" that can automatically move the user's POV throughout the show to *"the best seat in the house"* for each moment in the live show, like a ride at a theme park. This offers audiences all over the world the ability to watch the performance without attending a physical venue or operating any controllers. We refer to this as our 'virtual balcony ticket' and can also make this feature available to Influencers who wish to livestream their gameplay for their online audience. 
 
-Please note, we have personally found it extremely helpful to also film/stream the live action video of the Participants reactions to intercut with the virtual livestream to remind remote viewers this is actually happening live. 
+Please note, we have personally found it extremely helpful to also film/stream the live action video of the Participants reactions to intercut with the virtual livestream to remind remote viewers that the show is actually happening live. 
 
 * We can provide/suggest equipment and methods for your livestreaming needs of *Non-Player Character.* 
 * An additional license may be required for any persistent video-on-demand archive of the *full* livestream as a pre-recorded version. Please discuss with our team ahead of time.
