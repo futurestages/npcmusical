@@ -16,7 +16,7 @@ You can control the adventure in an original musical performance in your web bro
 - [Get Tickets and Secret Shows](https://futurestages.github.io/npcmusical/tickets)
 - [Meet the Team](https://futurestages.github.io/npcmusical/about.html)
 
-### Overview
+### [Overview](./1.overview.md)
 Learn about the show, the tech and ticketing.  
 
 ### Press
