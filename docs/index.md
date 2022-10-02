@@ -19,8 +19,8 @@ You can control the adventure in an original musical performance in your web bro
 ### [Overview](./1.overview.md)
 Learn about the show, the tech and ticketing.  
 
-### Press
+### [Press](./press.md)
 Access EPK and press highlights for *Non-Player Character*
 
-### Policies
+### [Policies](./policies.md)
 All privacy and legal policies for the site and show.
