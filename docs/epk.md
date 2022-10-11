@@ -14,7 +14,20 @@ We are a grateful for your support and coverage of *Non-Player Character.* If yo
 > When a video game hero dies, the audience must guide a Non-Player Character (performed by a live, singing actor) through several virtual worlds of their grief. The line between reality and virtual reality blurs as audiences influence the journey, either wearing a VR headset or watching on the big screen. Live musical theater meets video games as Creator and Performer, Brendan Andolsek Bradley, invites two-tiers of audience to enter and impact the story arc and help a character without agency navigate their grief through interactivity, immersion and song. An experimental prototype for hybrid location-based events, on-site audiences may choose to experience either as a Participant wearing a VR headset (in groups of four) or as Spectators watching the world(s) and characters projected onto the theater screen. Meanwhile, remote audiences may navigate the virtual world with the participants as “ghosts” without an avatar or microphone.
 
 ## Artist Statement 
-(coming soon)
+During the global shutdown, I escaped my own grief by merging my love for live performance and interactive media when I designed and released a playhouse in virtual reality that any performer could use for free. The Museum of Science in Boston commissionedme to create a prototype for a live actor wearing a virtual reality headset in front of a seated audience with the virtual world projected on the IMAX screen behind them.
+
+They certainly did not expect me to present a musical about a sad robot.
+
+Non-Player Character began as a 15-minute loopable experience about a character without agency in a fictitious video game who relies on the audience to process their grief and depression. Maurice Soque Jr. and I met online and began trading voice memos and audio files to asynchronously compose the 5-song cycle. As much of thegameplay relies on loose improvisation and audience response, the music became the spine of ourstory, allowing the performer to regain focus and control while anchoring the experience in emotionally resonate storytelling, no matter whatwent wrong.
+
+At the demo in Boston last December, I took the stage, seamlessly switching betweenavatars, characters and worlds, joined on-stage by select Audience Participants whoalso wore headsets so theiractions could be rendered in-real time, on screen, directly affecting the story and my performance. As I’ve continued to perform in live virtual reality all over the world this year (SXSW,Venice Film Festival, Raindance, etc), I’ve struggled to understand why my other projects feel confined to a tech demo or game. Relying on the gimmick of technology misses the ritual and tension of shared space. 
+
+In Non-Player Character, the audience uses the technology not to “win,” but to “connect.” 
+
+Now, my singular focus is to return to in-venue performance, allowing the technology toenhance the audience experience, empowering them to co-create thenarrative with the performer, and with each other. Video game culture and mechanics used for escapism become a bridge back to each other as multiple tiers of audiences rely upon each otherfor support, empathy and sing-alongs. 
+
+This is a new kind of live theater inviting and challenging both the theater and gaming communities’ definition of “play.
+
 - [Inteview with RGM Magazine](https://rgm.press/rgm-introducing-we-interview-la-artist-brendan-bradley/interview/)
 
 ## Music Playlist
