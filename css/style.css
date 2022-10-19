@@ -326,14 +326,14 @@ section#sub-section {
     font-style: italic;
   }
   .header_button2 h2 {
-        background: #D846B9;
+         background: #D846B9;
     color: #fff;
-    border: 3px solid #fff;
-    font-weight: 600;
-    font-size: 30px;
+   font-weight: 600;
+    font-size: 19px !important;
     padding: 10px 48px;
     background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-    border-radius: 5px;
+
+    border-radius: 0px;
   }
 .footer_back{
     background: url(../img/footer_back.png);
