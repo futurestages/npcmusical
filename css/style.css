@@ -732,7 +732,7 @@ footer ul{
 
      text-decoration: none;
  }
- .tour-btn {
+ .tour-btn{
      
      letter-spacing: .05em;
      display: inline-block;
@@ -749,7 +749,7 @@ footer ul{
 	     margin-bottom: 54px;
     margin-top: 13px;
  }
-.tour-btn a:hover {
+.tour-btn:hover {
     background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
 
      text-decoration: none;
@@ -774,6 +774,16 @@ footer ul{
  }
 
  @media (max-width: 768px) {
+	 .d-grid{
+		     grid-template-columns: repeat(1, 1fr);
+	 }
+	 .mtitle{
+		     margin-bottom: 14px;
+	 }
+	 .elink a{
+		 display: block;
+    margin-top: 22px;
+	 }
 	.site-logo h1 {
 		font-weight: bold;
 		font-size: 17px;
