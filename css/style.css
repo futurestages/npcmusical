@@ -15,12 +15,13 @@ a{
 body{
     font-size: 18px;
     color: #fff;
+	background-color: #2a1941;
 }
 img{
     max-width: 100%;
 }
 .header-area {
-   
+       border-bottom: 3px solid #694796;
     width: 100%;
     padding: 12px 10px; /*originally 21 30 */
     z-index: 999;
@@ -28,12 +29,16 @@ img{
     background: url(../img/nav_back.png);
     background-repeat: no-repeat;
     background-size: cover;
+	    margin-bottom: 21px;
     background-position: center center;
+	    background: linear-gradient(#7646b7 0,#7546b3 26%,#000000 100%);
 }
 .header-container {
-    display: table;
-    width: 70%;
+    display: flex;
+    width: 100%;
     margin: auto;
+    align-items: center;
+    justify-content: space-between;
 }
 .site-logo {
     float: left;
@@ -53,7 +58,9 @@ img{
     float: right;
 }
 .primary-menu{
-    list-style: none;
+       list-style: none;
+    padding: 0;
+    margin: 0;
 }
 .primary-menu li {
     display: inline-block;
@@ -66,8 +73,9 @@ img{
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 25px;
-    padding: 10px 10px;
+    padding: 0px 10px;
     transition: .5s;
+	    font-weight: 700;
 }
 .primary-menu a:hover,
 .primary-menu .active {
@@ -399,7 +407,7 @@ section#sub-section {
     .primary-menu li {
         display: block;
         text-align: center;
-        margin: 25px 5px;
+        margin: px 5px;
     }
     .mobile-nav{
         display: block;
