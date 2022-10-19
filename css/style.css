@@ -754,6 +754,30 @@ footer ul{
 	 grid-template-columns: repeat(4, 1fr);
 	 gap:22px
  }
+ .teamsec{
+	 background-color: #d846b9;
+    padding: 60px 0px;
+    box-sizing: border-box;
+    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
+ }
+.teamsec #tour-container{
+	margin-top: 0px !important;
+}
+.teamsec h1{
+	    margin-bottom: 32px;
+}
+.thank{
+	    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+.thank h5{
+	    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
+    border-radius: 50px;
+    padding: 5px;
+	margin-bottom:8px
+}
  @media (min-width: 769px) and (max-width: 991px) {
    #tour-list .city {
      width: 26%;
@@ -764,7 +788,21 @@ footer ul{
 
  }
 
+ @media (max-width: 992px) {
+	  .thank{
+		grid-template-columns: repeat(2, 1fr);
+	 }
+	  .profiles{
+		grid-template-columns: repeat(2, 1fr);
+	 }
+ }
  @media (max-width: 768px) {
+	  .profiles{
+		grid-template-columns: repeat(1, 1fr);
+	 }
+	 .thank{
+		grid-template-columns: repeat(1, 1fr);
+	 }
 	 .d-grid{
 		     grid-template-columns: repeat(1, 1fr);
 	 }
