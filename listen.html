@@ -1,977 +1,187 @@
-/* @font-face {
-    font-family:nos;
-    src: url(../fonts/steeltongs_regular.ttf);
-} */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Non-Player Character virtual reality musical LISTEN</title>
+    <!-- bootstrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+     <!-- CSS only -->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <!-- font awesome cdn -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .header_button iframe {
+         width: 1348px;
+         height: 550px;
+         max-width: 100%;
+         position: relative;
+           }
+          .header_title{
+             position: absolute;
+             left:3%;
+             bottom:3%;
+           }
+        /* thumbnail scroll */
+.gallery-reel {
+  height: clamp(75px, 25vw, 200px) !important;
+  padding: 17px 0px !important;
+}
+    </style>
+</head>
+<body>
+    <header class="header-area">
+        <div class="header-container">
+            <div class="site-logo">
+                <!-- logo -->
+                <a href="#"><i><h1>#NPCMUSICAL</h1></i></a>
+            </div>
+            <div class="mobile-nav">
+                <i class="fas fa-bars"></i>
+            </div>
+            <div class="site-nav-menu">
+                <!-- add navbar -->
+                <ul class="primary-menu">
+                    <li><a href="./index.html" >Home</a></li>
+                    <li><a href="./tickets.html">Tickets</a></li>
+                    <li><a href="./about.html" >About</a></li>
+                    <li><a href="#" class="active">Listen</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
 
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
-*{
-    margin: 0;
-    padding:0;
-    box-sizing: border-box;
-}
-a{
-    text-decoration: none;
-}
-body{
-    font-size: 18px;
-    color: #fff;
-	background-color: #2a1941;
-	overflow-x:hidden;
-}
-img{
-    max-width: 100%;
-}
-.header-area {
-       border-bottom: 3px solid #694796;
-    width: 100%;
-    padding: 12px 10px; /*originally 21 30 */
-    z-index: 999;
-    height: auto;
-    background: url(../img/nav_back.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+<section id="sub-section">
+<div class="header_sub_back">
+   <div class="header_content d-flex align-items-center justify-content-center">
+   <!--TOUR DATES-->
+      <div id="tour-container">
+         <div class="tour-top"  style="background: linear-gradient(#664488 0,#302040 26%,#20152a 100%);border-radius: 5px;">
+         <h3>LISTEN</h3>
+         <h4>Workshop Cast Recording <span class="ib"></span></h4>
+      </div>
+	  <div class="d-grid" style="background-color: #2f203f; border: 1px solid #1f1529;">
+			<div class="mtitle" style="grid-template-columns: repeat(1, 1fr);">
+				<img src="https://raw.githubusercontent.com/futurestages/npcmusical/main/img/portrait_Album.png" style="width:100%"><br />
+				FULL ALBUM
+				<div class="edate">iTUNES</div>
+				
+				<div class="elink">
+				<a href="https://music.apple.com/album/1634852775?app=itunes" target="_blank" style="background: linear-gradient(#664488 0,#302040 26%,#20152a 100%);">LISTEN</a>
+			</div>
+			</div>
+			
+			
+		</div>
+      <div class="tour">
+         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/35mTHeqw1SdDWaKxzUA3o9?utm_source=generator" width="100%" height="230" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <h3 class="sign-up-hed">Want early access to new singles?</h3>
+       <a href="#subscribe" class="tour-btn">SIGN UP</a>
+     </div>
+  </div>
+</div>   
+</section>
+
+<section>
+   <!-- 
+Dev by: Lihex Andrade 27/07/2020
+-->
+<div class="logoslider">
+<ul>
+    <li>
+        <img src="./img/square01.png" alt="">
+    </li>
+    <li>
+         <img src="./img/square02.png" alt="">
+    </li>
+    <li>
+        <img src="./img/square03.png" alt="">
+    </li>
+    <li>
+       <img src="./img/square04.png" alt="">
+    </li>
 	
-    background-position: center center;
-	    background: linear-gradient(#7646b7 0,#7546b3 26%,#000000 100%);
-}
-.header-container {
-    display: flex;
-    width: 100%;
-    margin: auto;
-    align-items: center;
-    justify-content: space-between;
-}
-.site-logo {
-    float: left;
-    padding: 5px -10px;
-}
-.site-logo a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 24px;
-}
-.site-logo h1 {
-    font-weight: bold;
-	margin:0px !important;
-}
-
-
-.site-nav-menu {
-    float: right;
-}
-.primary-menu{
-       list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.primary-menu li {
-    display: inline-block;
-    margin: 11px 5px; /* originally 21 5*/
-}
-.primary-menu a {
-    color: #fff;
-    position: relative;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 19px;
-    margin: 0px 10px;
-    transition: .5s;
-	    font-weight: 700;
-}
-.primary-menu a:hover,
-.primary-menu .active {
-    color:#D846B9;   
-}
-.primary-menu li a:after {
-    content: "";
-    position: absolute;
-    width: 0%;
-    height: 2px;
-    background: #D846B9;
-    bottom: 0px;
-    left: 0;
-    transition: all .5s;
-}
-.primary-menu li a:hover:after {
-    width: 100%;
-}
-.primary-menu li .active:after{
-    width: 100%;
-}
-.mobile-nav{
-    display: none;
-}
-.mobile-nav i{
-        float: right;
-    margin: 0;
-    padding: 0px;
-    font-size: 30px;
-    color: #fff;
-    outline: none;
-    cursor: pointer;
 	
-}
-
-
-section#hero-section {
-  
-}
-.header_main_back{
-    background: url(../img/hero_background.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-}
-
-section#sub-section {
-  
-}
-.header_sub_back{
-    background: url(../img/bg-about.jpg);
-    background-repeat: no-repeat;
-    /*  max-width: 100%;*/
-    background-size: cover;
-    background-position: top center;
-}
-
-
-.header_button h2 {
-    background: #D846B9;
-    color: #fff;
-    border: 3px solid #fff;
-    padding: 2px 10px;
-  }
-
-.header_title {
-
-    text-transform: uppercase;
-    color:#fff;
-
-}
-.header_title h5 {
-    font-weight: 500;
-    letter-spacing: 4px;
-    padding-left: 10px;
-    text-shadow: 3px 3px 3px #000;
-}
-.header_title h1 {
-    font-weight: 900;
-    font-size: 50px;
-    font-style: italic;
-    line-height: 25px;
-    text-shadow: 3px 3px 3px #000;
-}
-
-/* slider css start */
-#main_slider{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #000116;
-  }
-  
-  .slider{
-    position: relative;
-    background: #000116;
-    width:100%;
-    min-height: 500px;
-    overflow: hidden;
-  }
-  
-  .slider .slide{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    clip-path: circle(0% at 0 50%);
-  }
-  
-  .slider .slide.active{
-    clip-path: circle(150% at 0 50%);
-    transition: 2s;
-  }
-  
-  .slider .slide img{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .slider .slide .info {
-    position: absolute;
-    color: #111; /* this was dark gray */
-    background-color: rgb(12 0 0 / 77%);
-    width: 60%;
-    margin-top: 100px;
-    margin-left: 250px;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 5px 25px rgb(1 1 1 / 5%);
-  }
-  
-  .slider .slide .info h3{
-    font-weight: 600;
-    color:#ffffff;
-    text-shadow: 2px 2px 2px #000000;
-  }
-  
-  .slider h1{
-    font-weight: 600;
-    color:rgb(255, 255, 255);
-    text-shadow: 2px 2px 2px #020000;
-    padding-top:30px;
-  }
-  .slider .slide .info p{
-    font-size: 1em;
-    font-weight: 400;
-    color:#000;
-  }
-  h5.extra_color {
-    text-shadow: 2px 2px 2px #000000;
-    color: #fff;
-    text-align: right;
-}
-  .navigation{
-    height: 500px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-  }
-  
-  .slider:hover .navigation{
-    opacity: 1;
-  }
-  
-  .prev-btn, .next-btn{
-    z-index: 999;
-    font-size: 2em;
-    color: #222;
-    background: rgba(255, 255, 255, 0.8);
-    padding: 10px;
-    cursor: pointer;
-  }
-  
-  .prev-btn{
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-  }
-  
-  .next-btn{
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-  }
-  
-  .navigation-visibility{
-    z-index:2;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .navigation-visibility .slide-icon{
-    z-index:2;
-    background: rgba(255, 255, 255, 0.5);
-    width: 20px;
-    height: 10px;
-    transform: translateY(-50px);
-    margin: 0 6px;
-    border-radius: 2px;
-    box-shadow: 0 5px 25px rgb(1 1 1 / 20%);
-  }
-  
-  .navigation-visibility .slide-icon.active{
-    background: #4285F4;
-  }
-  
-  @media (max-width: 900px){
-    .slider{
-      width: 100%;
-    }
-	.header-area{
-		    padding: 31px 10px;
-	}
-  
-    .slider .slide .info{
-      position: relative;
-      width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-  
-  @media (max-width: 500px){
-    .header_button2 h2{
-        font-size: 25px;
-    }
-  
-    .slider .slide .info p{
-      font-size: 0.9em;
-    }
-  }
-  
-  /* main slider css end */
-  
-
-.virtual_title h3 {
-    color: #fff;
-    letter-spacing: 2px;
-    word-spacing: 5px;
-    font-size: 35px;
-    font-weight: 600;
-    text-shadow: 3px 3px 3px #000;
-  }
-.virtual_title h1 {
-    color: #fff;
-    font-size: 50px;
-    font-weight: 600;
-    text-shadow: 3px 3px 3px #000;
-    font-style: italic;
-  }
-  .header_button2 h2 {
-         background: #D846B9;
-    color: #fff;
-   font-weight: 600;
-    font-size: 19px !important;
-    padding: 10px 48px;
-    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-
-    border-radius: 0px;
-  }
-.footer_back{
-    background: url(../img/footer_back.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-	    padding: 10px 0px;
-}
-
-.social_icons{
-    text-align: right;
-}
-.social_icons.pb-3.pt-2.text-center i {
-    font-size: 25px;
-    color: #fff;
-    padding-right: 10px;
-  }
-.social_icons img{
-    padding-right: 10px;
-}
-.menu ul li{
-    display: inline-block;
-    list-style: none;
-}
-.menu ul li a{
-    text-decoration: none;
-    color:#fff;
-    font-size: 18px;
-}
-/* Responsive css */
-
-@media only screen and (max-width: 900px) {
-    .site-nav-menu {
-        float: none;
-        position: absolute;
-        background: #2A1941;
-        width: 100%;
-        left: 0;
-        z-index: 99;
-        top: 85px;
-        padding: 30px 0px 150px 0px;
-        border-top: 1px solid #4a4848;
-        clip-path: circle(0% at 100% 0%);
-        transition: all .8s;
-    }
-    .header_button2 h2 {
-        font-size:20px;
-      }
-
-    .slider .slide .info h3{
-        font-size: 30px;
-      }
-
-    .header_title h1 {
-       line-height: 40px;
-       font-size:40px;
-    }
-    .social_icons{
-        text-align: left;
-    }
-    ol, ul {
-        padding-left: 0rem;
-      }
-    .virtual_title{
-        padding:0px 10px;
-    }
-    .virtual_title h1 {
-        font-size:38px;
-      }
-    .virtual_title h3 {
-        font-size:30px;
-      }
-      .header_button2 h2 {
-        font-size: 25px;
-      }
-    .primary-menu li {
-        display: block;
-        text-align: center;
-        margin: px 5px;
-    }
-    .mobile-nav{
-        display: block;
-    }
-    .mobile-menu {
-		top: 103px !important;
-    width: 100% !important;
-        clip-path: circle(112% at 100% 0%);
-		    
-    }
-    .primary-menu li a:after{
-        display: none;
-    }
-}
-/* flip cards */
-/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
-.flip-card {
-  background-color: transparent;
-  width: 200px;
-  height: 200px;
-  border: 1px solid #f1f1f1;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
-      margin: 0px auto;
-}
-
-/* This container is needed to position the front and back side */
-.flip-card-inner {
-  position: relative;
-  width: 200px;
-  height: 200px;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
-}
-
-/* Do an horizontal flip when you move the mouse over the flip box container */
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
-
-/* Position the front and back side */
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 200px;
-  height: 200px;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-}
-
-/* Style the front side (fallback if image is missing) */
-.flip-card-front {
-  background-color: #bbb;
-  color: black;
-}
-
-/* Style the back side */
-.flip-card-back {
-  background-color: #db45bb;
-  color: white;
-  text-align: center; /* added to test */
-  transform: rotateY(180deg);
-}
-
-
-/* TOUR
-   --------------------------------------------------*/
-
-   .tour #tour-list .hidden-xs {
-     display:block;
-   }
-
- .clearfix:after {
-    content: " "; /* Older browser do not support empty content */
-    visibility: hidden;
-    display: block;
-    height: 0;
-    clear: both;
- }
-
- .tour-page .main-nav.left {
-   left:16%;
- }
-
- .tour-page .main-nav li a:hover, .tour-page .main-nav li a.active {
-   color:#db45bb;
-   text-decoration:underline;
- }
-
-.tour-page #masthead {
-  top:0;
-}
-
-.tour-social {
-  position:absolute;
-  top:12px;
-  right:10px;
-}
-
-.tour-social a {
-  color:#fff;
-  padding:.25em;
-  font-size:1.7vw;
-}
-
-.tour-social a:hover {
-  color:#db45bb;
-}
-
-.tour-logo {
-  width:95%;
-  margin:0 auto 3em;
-}
-
-#tour-container {
-  width:90%;
-  margin:3em auto 0;
-  max-width:1000px;
-  text-align:center;
-}
-/* tour top bar subheading */
-.tour-top {
-  background:#db45bb;
-  color:#fff; /* this was dark grey*/
-  padding:10px 0;
-      background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-}
-
-/* tour top bar topheading */
-.tour-top h3 {
-  color:#fff; /* this was dark grey*/
-  text-transform:uppercase;
-  font-size:35px !important;
-  margin:0;
-  padding:0;
-  line-height:.85;
-}
-
-.tour-top h4 {
-     font-weight: 700;
-    text-transform: uppercase;
-    font-size: 22px !important;
-    margin: 0;
-    padding: 0;
-    margin-top: 11px;
-    font-style: italic;
-}
-
-@media (max-width:767px) {
-  .tour-top h3 {
-    font-size:220%;
-  }
-
-  .tour-top h4 {
-    font-size:140%;
-  }
-}
-/* added section - green */
-.added {
-  border:1px solid #008000;
-  padding:20px 0;
-}
-
-.added p {
-  color:#008000;
-  font-weight: 500;
-  text-transform:uppercase;
-  text-align:center;
-  margin:0;
-  padding:0;
-  font-size:160%;
-  line-height:.8;
-}
-
-.added p span {
-  font-size:70%;
-}
-
-#tour-container p.more {
-  margin:1em 0 2em;
-  text-align:center;
-  font-size:140%;
-  font-style: normal;
-  font-weight: 800;
-}
-/* border of individual showtimes - pink */
-#tour-list p {
-  border:1px solid #db45bb;
-  margin:15px 0;
-  padding:2.5em 0;
-}
-
-#tour-list a.mobile-tix {
-  display:none;
-}
-
- .tour-stop{
- 	position: relative;
- }
-
- #tour-list .city, #tour-list .date {
-     float: left;
-     font-size:100%;
-     line-height: 1em;
-    font-style: normal;
-    font-weight: 800;
-    display:block;
- }
-
- #tour-list .city {
-     width: 28%;
-     white-space: nowrap;
-     line-height: normal !important;
-     text-transform:uppercase;
-     text-align:left;
-     font-weight: 500;
-     text-transform:uppercase;
-     text-align:center;
-     font-size:180%;
-     margin-top:5px;
- }
-
- #tour-list .date {
-     width: 45%;
-     font-size: 160%;
-     color:#fff;
-     text-align:center;
-    line-height: .8;
-    font-weight: 500;
- }
-
- #tour-list .venue {
-     padding-right: 2em;
-     font-weight: 500;
-     line-height:1.3em;
-     margin-top:5px;
-     font-weight:normal;
- }
-
- #tour-list a {
- 	float: right;
-     font-weight: bold;
-     font-size:80%;
-     z-index: 999;
- }
-
- 
-
- .tour {
-     position:relative;
- }
-
- h3.sign-up-hed {
-   margin-top:2em;
-   font-weight:500;
-   margin-bottom:10px;
-   padding-bottom:0;
-   margin-bottom: 19px;
- }
-
-
-
-footer .row{
-	align-items:center;
-}
-footer ul{
-	margin: 0px;
-	padding: 0px;
-}
-.social_icons{
-	padding:0px !important
-}
-.d-grid {
-	    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    color: white;
-    margin-bottom: 13px;
-    border: 1px solid #db45bb;
-    padding: 22px;
-    background-color: black;
-    align-items: center;
-    margin-top: 35px;
-    box-shadow: 1px 4px 21px rgb(67 69 114);
-    border-radius: 5px;	
-}
-.elink a {
-     
-     letter-spacing: .05em;
-     display: inline-block;
-     margin-bottom: 0;
-     line-height: 1;
-     text-align: center;
-     color:#fff;
-     padding:.55em .75em;
-     text-decoration:none;
-     font-size:18px;
-     background:#db45bb;
-     font-weight: 500;
-     background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-	 
-	 
- }
-
-.elink a:hover {
-    background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
-
-     text-decoration: none;
- }
- .tour-btn{
-     
-         letter-spacing: .05em;
-    display: inline-block;
-    margin-bottom: 0;
-    line-height: 1;
-    text-align: center;
-    color: #fff !important;
-    padding: 0.55em 0.75em;
-    text-decoration: none;
-    font-size: 18px;
-    background: #db45bb;
-    font-weight: 500;
-    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-    margin-bottom: 54px;
-    margin-top: 13px;
-    max-width: 100%;
-    width: 300px;
- }
-.tour-btn:hover {
-    background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
-
-     text-decoration: none;
- }
-
- .mtitle{
-	     font-weight: bold;
-    font-size: 25px;
- }
- .edate{
-	     font-weight: bold;
-    font-style: italic;
- }
- .profiles{
-	 display:grid;
-	 grid-template-columns: repeat(4, 1fr);
-	 gap:22px
- }
- .teamsec{
-	 background-color: #d846b9;
-    padding: 60px 0px;
-    box-sizing: border-box;
-    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
- }
-.teamsec #tour-container{
-	margin-top: 0px !important;
-}
-.teamsec h1{
-	    margin-bottom: 32px;
-}
-.thank{
-	    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    margin-bottom: 60px;
-    margin-top: 30px;
-}
-.thank h5{
-	border-radius: 50px;
-    padding: 5px;
-	margin-bottom:8px
-}
- @media (min-width: 769px) and (max-width: 991px) {
-   #tour-list .city {
-     width: 26%;
-    font-size: 200%;
-    margin-top: 5px;
-    margin-left: 15px;
-   }
-
- }
-
- @media (max-width: 992px) {
-	  .thank{
-		grid-template-columns: repeat(2, 1fr);
-	 }
-	  .profiles{
-		grid-template-columns: repeat(2, 1fr);
-	 }
- }
- @media (max-width: 768px) {
-	  .profiles{
-		grid-template-columns: repeat(1, 1fr);
-	 }
-	 .thank{
-		grid-template-columns: repeat(1, 1fr);
-	 }
-	 .d-grid{
-		     grid-template-columns: repeat(1, 1fr);
-	 }
-	 .mtitle{
-		     margin-bottom: 14px;
-	 }
-	 .elink a{
-		 display: block;
-    margin-top: 22px;
-	 }
-	.site-logo h1 {
-		font-weight: bold;
-		font-size: 36px;
-	}
-	.header_button iframe{
-		    height: 248px !important;
-			    z-index: -1;
-	}
-   .tour #tour-list .hidden-xs {
-     display: none;
-    }
-
-   .tour-page .tour-nav-sm {
-     background:#000000;
-     box-shadow:0 0 20px #333;
-     height:50px;
-   }
-
-   .tour-nav-sm .logo {
-     margin-top:4px;
-     width:150px;
-     max-width:160px;
-   }
-
-    .tour-page #masthead {
-      display:none;
-    }
-
-    .tour-nav-sm .main-nav.left {
-      display:block;
-      left:160px;
-    }
-
-    .tour-nav-sm .main-nav li {
-      padding:0 1.2em;
-    }
-/* tour navigation - green */
-    .tour-nav-sm .main-nav li a {
-        color: #008000;
-        font-size: 30px;
-        letter-spacing: .05em;
-        display: inline-block;
-        font-weight: 500;
-        margin-top:1px;
-    }
-
-    .tour-hed {
-      margin:0;
-      padding:0;
-      font-size:35px;
-    }
-
-    #tour-container {
-      width:90%;
-      margin-top:2em;
-    }
-
-     #tour-list .city, #tour-list .date, #tour-list .venue {
-         display:block;
-         width:100%;
-         margin:3px 0 0;
-     }
-
-     #tour-list p {
- 	    position: relative;
-      padding:20px 0;
-     }
-
-     #tour-list {
-       font-size: 125%;
-     }
-
-     #tour-list {
-       margin:0em auto 0em;
-     }
-
- 	#tour-list a.mobile-tix {
-    float: none;
-    font-size: 90%;
-    display: block;
-    margin-top:15px;
- 	}
-
-  #tour-list .venue {
-    padding-right: 0em;
-
-  }
-
-  .tour-logo {
-    margin:2em auto;
-    text-align:center;
-    max-width:85%;
-  }
-
-  #tour-list a {
-    width:50%;
-    margin:0 auto;
-    float:none;
-    padding:.25em .75em;
-  }
-
-  .tour-top h4 {
-    font-size:150%;
-  }
-
-
-
- }
-
-
- @media (max-width:400px) {
-   .tour-nav-sm .main-nav li a {
-        font-size: 25px;
-        margin-top:3px;
-    }
-
-    .tour-nav-sm .main-nav.left {
-      left:140px;
-    }
-
-    .tour-nav-sm .logo {
-          margin-top: 8px;
-          margin-left:4px;
-          width: 120px;
-          max-width: 160px;
-      }
- }
-
-
-
-/* logo scroller*/
-.logoslider {
-      width: 2179px;
-    margin: auto;
-    overflow: visible;
-    max-width: 100%;
-    overflow: hidden;
-}
-.logoslider ul {
-    display: flex;
-    padding: 0;
-    animation: cambio 80s infinite linear;
-}
-.logoslider li {
-    padding:0 0px;
-    list-style: none;
-}
-.logoslider img {
-    max-width: fit-content !important;
-    height: auto !important;
-}
-@keyframes cambio {
-    from {margin-left: 0%}
-    to {margin-left: -100%}
-}
+	
+	<li>
+        <img src="./img/square01.png" alt="">
+    </li>
+    <li>
+         <img src="./img/square02.png" alt="">
+    </li>
+    <li>
+        <img src="./img/square03.png" alt="">
+    </li>
+    <li>
+       <img src="./img/square04.png" alt="">
+    </li>
+	<li>
+        <img src="./img/square01.png" alt="">
+    </li>
+    <li>
+         <img src="./img/square02.png" alt="">
+    </li>
+</ul>
+</div>
+</section>
+   
+
+    <section>
+        <footer>
+            <div class="footer_back">
+             <div class="container-fluid">
+               <div class="row">
+                <div class="col-md-4">
+                    <div class="footer_navbar">
+                       <div class="menu pt-2 text-center">
+                        <ul>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/npc-privacy/">PRIVACY POLICY |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/npc-terms/">TERMS & CONDITIONS |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/npc-cookie/">COOKIE POLICY |</a></li>
+                        </ul>
+                       </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="footer_navbar">
+                       <div class="menu pt-2 text-center">
+                        <ul>
+                            <li>FOR INQUIRIES <a href="https://futurestages.github.io/npcmusical/docs/press-and-releases/">PRESS</> |</a></li>
+                            <li><a href="https://futurestages.github.io/npcmusical/docs/business/">TOURING |</a></li>
+                            <li><a href="./about">TEAM</a></li>
+                        </ul>
+                       </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+               <div class="social_icons pb-3 pt-2 text-center">
+                <!-- add your social links -->
+                 <a href="https://facebook.com/brendanbradleyofficial"><i class="bi bi-facebook"></i></a>      
+                 <a href="https://twitter.com/brendanabradley"><i class="bi bi-twitter"></i></a>    
+                 <a href="https://instagram.com/brendanabradley"><i class="bi bi-instagram"></i></a>  
+                 <a href="https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9"><i class="bi bi-spotify"></i></a> 
+                <a href="https://music.apple.com/album/1626196889?app=itunes"><i class="bi bi-apple"></i></a>   
+                <a href="https://www.youtube.com/watch?v=kSuU6hc5n_0&list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5"><i class="bi bi-youtube"></i></a>
+                <a href="https://tiktok.com/@brendanabradley"><i class="bi bi-tiktok"></i></a>
+                   <a href="https://github.com/futurestages"><i class="bi bi-github"></i></a>
+                    </div>
+                </div>
+               </div>
+             </div>
+            </div>
+        </footer>
+    </section>
+    <!-- toggle or mobile responsive js -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".mobile-nav i").click(function(){
+                $(".site-nav-menu").toggleClass("mobile-menu");
+            });
+        });
+    </script>
+    
+</body>
+</html>
