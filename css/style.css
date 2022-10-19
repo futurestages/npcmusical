@@ -432,6 +432,7 @@ section#sub-section {
   height: 200px;
   border: 1px solid #f1f1f1;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
+      margin: 0px auto;
 }
 
 /* This container is needed to position the front and back side */
@@ -944,9 +945,11 @@ footer ul{
 
 /* logo scroller*/
 .logoslider {
-    width: 2179px;
+      width: 2179px;
     margin: auto;
     overflow: visible;
+    max-width: 100%;
+    overflow: hidden;
 }
 .logoslider ul {
     display: flex;
