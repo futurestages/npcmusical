@@ -106,10 +106,11 @@ img{
         float: right;
     margin: 0;
     padding: 0px;
-    font-size: 16px;
+    font-size: 30px;
     color: #fff;
     outline: none;
     cursor: pointer;
+	
 }
 
 
@@ -288,6 +289,9 @@ section#sub-section {
     .slider{
       width: 100%;
     }
+	.header-area{
+		    padding: 31px 10px;
+	}
   
     .slider .slide .info{
       position: relative;
@@ -418,7 +422,7 @@ section#sub-section {
         display: block;
     }
     .mobile-menu {
-		top: 43px !important;
+		top: 103px !important;
     width: 100% !important;
         clip-path: circle(112% at 100% 0%);
 		    
@@ -777,8 +781,7 @@ footer ul{
     margin-top: 30px;
 }
 .thank h5{
-	    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-    border-radius: 50px;
+	border-radius: 50px;
     padding: 5px;
 	margin-bottom:8px
 }
@@ -819,10 +822,11 @@ footer ul{
 	 }
 	.site-logo h1 {
 		font-weight: bold;
-		font-size: 17px;
+		font-size: 36px;
 	}
 	.header_button iframe{
-		    height: 201px !important;
+		    height: 248px !important;
+			    z-index: -1;
 	}
    .tour #tour-list .hidden-xs {
      display: none;
