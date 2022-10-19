@@ -668,27 +668,8 @@ section#sub-section {
    margin-bottom: 19px;
  }
 
- a.tour-btn {
-    letter-spacing: .05em;
-    display: block;
-    margin-bottom: 0;
-    line-height: 1;
-    text-align: center;
-    color: #fff;/* subscribe bottom button */
-    padding: .25em .75em;
-    text-decoration: none;
-    font-size: 165%;
-    background: #db45bb;
-    font-weight: 500;
-    width:40%;
-    margin:0 auto 3em;
- }
 
- a.tour-btn:hover {
-   background: #ffffff;
-    color: #db45bb;
-    text-decoration: none;
- }
+
 footer .row{
 	align-items:center;
 }
@@ -737,20 +718,22 @@ footer ul{
  }
  .tour-btn{
      
-     letter-spacing: .05em;
-     display: inline-block;
-     margin-bottom: 0;
-     line-height: 1;
-     text-align: center;
-     color:#fff;
-     padding:.55em .75em;
-     text-decoration:none;
-     font-size:18px;
-     background:#db45bb;
-     font-weight: 500;
-     background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
-	     margin-bottom: 54px;
+         letter-spacing: .05em;
+    display: inline-block;
+    margin-bottom: 0;
+    line-height: 1;
+    text-align: center;
+    color: #fff !important;
+    padding: 0.55em 0.75em;
+    text-decoration: none;
+    font-size: 18px;
+    background: #db45bb;
+    font-weight: 500;
+    background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
+    margin-bottom: 54px;
     margin-top: 13px;
+    max-width: 100%;
+    width: 300px;
  }
 .tour-btn:hover {
     background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
@@ -896,9 +879,7 @@ footer ul{
     font-size:150%;
   }
 
-  a.tour-btn {
-    width:60%;
-  }
+
 
  }
 
