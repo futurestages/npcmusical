@@ -51,6 +51,7 @@ img{
 }
 .site-logo h1 {
     font-weight: bold;
+	margin:0px !important;
 }
 
 
@@ -101,10 +102,10 @@ img{
     display: none;
 }
 .mobile-nav i{
-    float: right;
-    margin: 10px;
-    padding: 10px;
-    font-size: 24px;
+        float: right;
+    margin: 0;
+    padding: 0px;
+    font-size: 16px;
     color: #fff;
     outline: none;
     cursor: pointer;
@@ -726,7 +727,13 @@ footer ul{
  }
 
  @media (max-width: 768px) {
-
+	.site-logo h1 {
+		font-weight: bold;
+		font-size: 17px;
+	}
+	.header_button iframe{
+		    height: 228px !important;
+	}
    .tour #tour-list .hidden-xs {
      display: none;
     }
@@ -829,6 +836,7 @@ footer ul{
   }
 
  }
+
 
  @media (max-width:400px) {
    .tour-nav-sm .main-nav li a {
