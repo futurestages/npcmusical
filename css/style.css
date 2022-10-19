@@ -766,6 +766,11 @@ footer ul{
 	     font-weight: bold;
     font-style: italic;
  }
+ .profiles{
+	 display:grid;
+	 grid-template-columns: repeat(4, 1fr);
+	 gap:22px
+ }
  @media (min-width: 769px) and (max-width: 991px) {
    #tour-list .city {
      width: 26%;
