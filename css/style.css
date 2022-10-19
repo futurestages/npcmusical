@@ -338,6 +338,7 @@ section#sub-section {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+	    padding: 10px 0px;
 }
 
 .social_icons{
@@ -704,7 +705,16 @@ section#sub-section {
     color: #db45bb;
     text-decoration: none;
  }
-
+footer .row{
+	align-items:center;
+}
+footer ul{
+	margin: 0px;
+	padding: 0px;
+}
+.social_icons{
+	padding:0px !important
+}
  @media (min-width: 769px) and (max-width: 991px) {
    #tour-list .city {
      width: 26%;
