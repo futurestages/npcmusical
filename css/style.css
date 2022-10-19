@@ -418,9 +418,10 @@ section#sub-section {
         display: block;
     }
     .mobile-menu {
+		top: 43px !important;
+    width: 100% !important;
         clip-path: circle(112% at 100% 0%);
-		    top: 43px;
-    width: 100%;
+		    
     }
     .primary-menu li a:after{
         display: none;
