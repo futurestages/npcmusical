@@ -30,7 +30,7 @@ img{
     background: url(../img/nav_back.png);
     background-repeat: no-repeat;
     background-size: cover;
-	    margin-bottom: 21px;
+	
     background-position: center center;
 	    background: linear-gradient(#7646b7 0,#7546b3 26%,#000000 100%);
 }
