@@ -533,6 +533,7 @@ section#sub-section {
   background:#db45bb;
   color:#fff; /* this was dark grey*/
   padding:10px 0;
+      background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
 }
 
 /* tour top bar topheading */
@@ -651,29 +652,7 @@ section#sub-section {
      z-index: 999;
  }
 
- #tour-list a {
-     margin-right: 1em;
-     margin-top:2em;
-     letter-spacing: .05em;
-     display: inline-block;
-     margin-bottom: 0;
-     line-height: 1;
-     text-align: center;
-     color:#fff;
-     padding:.55em .75em;
-     text-decoration:none;
-     font-size:145%;
-     background:#db45bb;
-     font-weight: 500;
-     width:20%;
- }
-
- #tour-list a:hover,
- #tour-list a:focus {
-    background:#ffffff;
-    color:#db45bb;
-     text-decoration: none;
- }
+ 
 
  .tour {
      position:relative;
@@ -717,6 +696,36 @@ footer ul{
 .social_icons{
 	padding:0px !important
 }
+.d-gird{
+	display:grid;
+	grid-template-columns: repeat(3, 1fr);
+	color:white;
+	margin-bottom:22px;
+	border:1px solid #db45bb;
+	padding:22px	
+}
+.elink a {
+     margin-right: 1em;
+     margin-top:2em;
+     letter-spacing: .05em;
+     display: inline-block;
+     margin-bottom: 0;
+     line-height: 1;
+     text-align: center;
+     color:#fff;
+     padding:.55em .75em;
+     text-decoration:none;
+     font-size:145%;
+     background:#db45bb;
+     font-weight: 500;
+     background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
+ }
+
+.elink a:hover {
+    background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
+
+     text-decoration: none;
+ }
  @media (min-width: 769px) and (max-width: 991px) {
    #tour-list .city {
      width: 26%;
