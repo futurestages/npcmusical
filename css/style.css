@@ -696,17 +696,21 @@ footer ul{
 .social_icons{
 	padding:0px !important
 }
-.d-gird{
-	display:grid;
-	grid-template-columns: repeat(3, 1fr);
-	color:white;
-	margin-bottom:22px;
-	border:1px solid #db45bb;
-	padding:22px	
+.d-grid {
+	    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    color: white;
+    margin-bottom: 13px;
+    border: 1px solid #db45bb;
+    padding: 22px;
+    background-color: black;
+    align-items: center;
+    margin-top: 35px;
+    box-shadow: 1px 4px 21px rgb(67 69 114);
+    border-radius: 5px;	
 }
 .elink a {
-     margin-right: 1em;
-     margin-top:2em;
+     
      letter-spacing: .05em;
      display: inline-block;
      margin-bottom: 0;
@@ -715,16 +719,49 @@ footer ul{
      color:#fff;
      padding:.55em .75em;
      text-decoration:none;
-     font-size:145%;
+     font-size:18px;
      background:#db45bb;
      font-weight: 500;
      background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
+	 
+	 
  }
 
 .elink a:hover {
     background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
 
      text-decoration: none;
+ }
+ .tour-btn {
+     
+     letter-spacing: .05em;
+     display: inline-block;
+     margin-bottom: 0;
+     line-height: 1;
+     text-align: center;
+     color:#fff;
+     padding:.55em .75em;
+     text-decoration:none;
+     font-size:18px;
+     background:#db45bb;
+     font-weight: 500;
+     background: linear-gradient(#d846b9 0,#af0d8c 26%,#4d043d 100%);
+	     margin-bottom: 54px;
+    margin-top: 13px;
+ }
+.tour-btn a:hover {
+    background:linear-gradient(#690153 0,#ff0fcb 26%,#d008a4 100%) !Important;
+
+     text-decoration: none;
+ }
+
+ .mtitle{
+	     font-weight: bold;
+    font-size: 25px;
+ }
+ .edate{
+	     font-weight: bold;
+    font-style: italic;
  }
  @media (min-width: 769px) and (max-width: 991px) {
    #tour-list .city {
