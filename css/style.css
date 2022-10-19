@@ -419,6 +419,8 @@ section#sub-section {
     }
     .mobile-menu {
         clip-path: circle(112% at 100% 0%);
+		    top: 43px;
+    width: 100%;
     }
     .primary-menu li a:after{
         display: none;
@@ -819,7 +821,7 @@ footer ul{
 		font-size: 17px;
 	}
 	.header_button iframe{
-		    height: 228px !important;
+		    height: 201px !important;
 	}
    .tour #tour-list .hidden-xs {
      display: none;
