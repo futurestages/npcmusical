@@ -963,6 +963,7 @@ footer ul{
     display: flex;
     padding: 0;
     animation: cambio 80s infinite linear;
+	margin-bottom: 0px;
 }
 .logoslider li {
     padding:0 0px;
