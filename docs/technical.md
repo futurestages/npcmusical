@@ -11,5 +11,5 @@ Spectators will sit in the auditorium. The virtual world is projected in the bac
 
 | Tables   |      Are      | 
 |----------|:-------------:|
-| col 1 is |  left-aligned | 
-| col 2 is |    centered   |
+| ![image]([files/Users/jzhang/Desktop/Isolated.png](https://raw.githubusercontent.com/futurestages/npcmusical/gh-pages/img/square05.png)) |  left-aligned | 
+| ![image](files/Users/jzhang/Desktop/Isolated.png) |    centered   |
