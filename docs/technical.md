@@ -37,3 +37,5 @@ Stage Management can control the virtual cues in parralel with any traditional t
 Our Music Director can control a mix of live and pre-recorded instruments from on-stage, sending separate signals to both the PA System and Virtual experience. If live music is not requested, pre-recorded backing tracks may also be cued from Venue's existing sound interface.
 
 For livestreaming the experience to remote audiences, the easiest method is to stream the same capture the Projector is receiving of the virtual world. However, some venues have opted to add additional cameras or feeds and we are happy to support this workflow.
+
+![image](https://futurestages.github.io/npcmusical/img/map-technicalsetup.png)
