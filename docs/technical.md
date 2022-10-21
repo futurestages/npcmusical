@@ -6,10 +6,7 @@ nav_order: 4
 ---
 
 ## Tiers of Experience
-
-
-
-| Tables   |      Are      | 
+Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
 |----------|:-------------:|
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-spectator.png) |    **In-person in the Venue** | Spectators will sit in the auditorium. The virtual world is projected in the background.   |
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-participant.png) |    **In-person in VR**
