@@ -15,7 +15,7 @@ As the live experience is contatined with a web url, there is always the option 
 To offer more interaction to users without VR headsets, we also have a Webapp for users to interact/vote/support the Participants throughout the story using their personal mobile device. This app also allows users to access information about the show, like a traditional paper programme. 
 
 ## Tiers of Experience
-*Non-Player Character* explores and expands the limits of "Hybrid" or Location-Based Live Entertainment by offering access to multiple tiers of audience interaction. While our "core" experience is the live storytelling interactions between the Performer and Active Participants sharing both physical and virtual space, we recognize the importance and power of audience choice regarding their level of interaction and immersion, thereby also offering a Spectator, Remote and Livestream tier of joining *Non-Player Character*.
+*Non-Player Character* explores and expands the limits of "Hybrid" and Location-Based Live Entertainment by offering access to multiple tiers of audience interaction. While our "core" experience is the live storytelling interactions between the Performer and Active Participants sharing both physical and virtual space, we recognize the importance and power of audience choice regarding their level of interaction and immersion, thereby also offering a Spectator, Remote and Livestream tier of joining *Non-Player Character*.
 
 &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |----------|:-------------:|
