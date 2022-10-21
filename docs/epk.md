@@ -36,7 +36,7 @@ This is a new kind of live theater inviting and challenging both the theater and
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5)
 
 ## Pull Quotes & Awards
-- Please see [Press & Releases](../press-and-releases.md/)
+- Please see [Press & Releases](./press-and-releases.md/)
 
 ## Media Assets
 - [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
