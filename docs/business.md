@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 ## Licensing & Touring
-The application of XR technology, especially web-based virtual reality, allows *Non-Player Character* to be performed and experienced in a variety of modes and formats. First and foremost, *NPC* is a work of live musical theater performed with a live audience who may watch and interact with a live, singing actor in virtual reality. Previously, the show has successfully presented on-site at traditional stage/cinema venues, at pop-up events or activations in non-traditional spaces, livestreamed to a partner's video platform, and entirely virtual/remote. We are open to working with your specific audience and event needs, with a mission to introduce as many new audiences as possible to this exciting story and technology.
+The application of XR technology, especially web-based virtual reality, allows *Non-Player Character* to be performed and experienced in a variety of modes and formats, outlined in our [`Technical Deck`](./technical-deck.md). First and foremost, *NPC* is a work of live musical theater performed with a live audience who may watch and interact with a live, singing actor in virtual reality. Previously, the show has successfully presented on-site at traditional stage/cinema venues, at pop-up events or activations in non-traditional spaces, livestreamed to a partner's video platform, and entirely virtual/remote. We are open to working with your specific audience and event needs, with a mission to introduce as many new audiences as possible to this exciting story and technology.
 
 ### How to Tour/Host the Show
 As the experience is accessible via web browser, we need only to open a link on the computer already connected to the venue's projector and plug our audio input into the venue's sound system. Audiences have delighted in a hybrid, in-person experience where **Four (4) audience 'Participants' share the "stage area" with the live Performer while the remaining 'Spectators' watch the virtual world and characters projected on a large screen or wall.**
@@ -30,7 +30,7 @@ We welcome new artist renditions and recordings of the music from *Non-Player Ch
 ### License the Show
 Licensing fees and rental materials quoted upon application. 
 
-*Non-Player Character* rental packages can include Music, Scripts, and Addons, including the entire 'Show Build' as a "show-in-a-box" with all virtual Environments, Avatars, Props and Stage Cues. This would allow anyone, anywhere to peform the full show without any Techincal Development or Design. (Virtual Reality Hardware is not included in any packages.)
+*Non-Player Character* rental packages can include Music, Scripts, and Addons, such as the entire 'Show Build' as a "show-in-a-box" with all virtual Environments, Avatars, Props and Stage Cues. This would allow anyone, anywhere to peform the full show without any Techincal Development or Design. (Virtual Reality Hardware is not included in any packages.)
 
 ### How to Hire the Team
 The team behind *Non-Player Character* may be contacted and commissioned either as a team or individually to build or consult on experiences similar to *Non-Player Character.*
