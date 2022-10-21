@@ -14,5 +14,6 @@ Non-Player Character explores and expands the limits of Hybrid or Location-Based
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-participant.png) |    **In-person in VR** <br>Select Audiences will be invited to use a VR headset provided to them on-site. They can experience the piece and interact with the live performer directly in the virtual world.|
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-remote.png) |    **Remotely with a personal VR headset** <br> Audiences who have access to their own VR headset can join the virtual world remotely and freely explore the world of the story. A robust internet connection is needed.|
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-livestream.png) |    **Remotely from any device watching the livestream** <br> Remote audiences can enjoy a more passive experience through the livestream. They will be able to see what is happening in the virtual world, as well as camera views from the stage.|
+| ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-webapp.png) |    **Personal Mobile Device** <br>All audiences can participate in voting and interactions during the live show using a web application on their personal mobile device.| 
 
-(*icons by Unwired Dance Theatre*)
+(*icons by Unwired Dance Theatre & Cuputo from The Noun Project*)
