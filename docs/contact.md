@@ -1,8 +1,8 @@
 ---
 layout: default
 title: contact
-parent: 
-nav_order: 
+parent: Policies
+nav_order: 8
 ---
 
 ## Contact
