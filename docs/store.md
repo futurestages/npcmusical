@@ -1,8 +1,8 @@
 ---
 layout: default
 title: store
-parent: 
-nav_order: 
+parent: Policies
+nav_order: 8
 ---
 
 ## Store
