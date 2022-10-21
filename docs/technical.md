@@ -28,4 +28,12 @@ To offer more interaction to users without VR headsets, we also have a Webapp fo
 (*icons by Unwired Dance Theatre & Cuputo from The Noun Project*)
 
 ## General Setup
+We appreciate that every venue and partner has their own best practices for audio-visual transmission and livestreaming. As a general overview, the diagram below is meant to begin the conversation of how *Non-Player-Character* is designed to be **plug-and-play with most existing Projector and Public Address systems**. As the experience is accessible via web browser, we need only to open a webpage on the computer already connected to the venue’s projector and plug our audio input into the venue’s sound system.
 
+**The most important consideration for any experience like *Non-Player Character* is ensuring dedicated, private WiFi Router for the Staff that is capable of supporting a half a dozen wireless devices.** 
+
+Stage Management can control the virtual cues in parralel with any traditional theatrical cueing in the venue. 
+
+Our Music Director can control a mix of live and pre-recorded instruments from on-stage, sending separate signals to both the PA System and Virtual experience. If live music is not requested, pre-recorded backing tracks may also be cued from Venue's existing sound interface.
+
+For livestreaming the experience to remote audiences, the easiest method is to stream the same capture the Projector is receiving of the virtual world. However, some venues have opted to add additional cameras or feeds and we are happy to support this workflow.
