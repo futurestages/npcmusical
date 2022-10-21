@@ -11,8 +11,7 @@ nav_order: 4
 
 | Tables   |      Are      | 
 |----------|:-------------:|
-| ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-spectators.png) |    **In-person in the Venue**
-Spectators will sit in the auditorium. The virtual world is projected in the background.   |
+| ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-spectators.png) |    **In-person in the Venue** | Spectators will sit in the auditorium. The virtual world is projected in the background.   |
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-participants.png) |    **In-person in VR**
 Audiences will be invited to use a VR headset provided to them on-site. They can experience the piece and interact with the live performer directly in the virtual world. Active participation will be encouraged through actions in the world.   |
 | ![image](https://github.com/futurestages/npcmusical/blob/main/img/icon-remote.png) |    centered   |
