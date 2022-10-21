@@ -2,7 +2,7 @@
 layout: default
 title: License & Touring
 parent: Overview
-nav_order: 5
+nav_order: 3
 ---
 
 ## Licensing & Touring
