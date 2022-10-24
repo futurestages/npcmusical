@@ -7,7 +7,7 @@ nav_order: 1
 ## Request Interview / Press Pass
 We welcome all coverage of *Non-Player Character*. Please contact *info (at) jigsawensemble (dot) com* for media requests and/or complimentary/private performances. Below please find approved press materials and pull quotes. Thank you! 
 
-  ![Non-Player Character Press Banner](../img/npcbannerpress.png)
+  ![Non-Player Character Press Banner](../img/NPC-Banner-PullQuotes.png)
   
 ## *Non-Player Character* in the Press 
 Imagine if a Disney musical came to life and interacted with audiences in what [Fame Magazine](https://www.famemagazine.co.uk/brendan-bradleys-reprogram-me-a-dream-pop-immersive-experience-between-vr-and-live-theater/) calls,
