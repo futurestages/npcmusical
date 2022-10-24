@@ -13,7 +13,7 @@ The original Workshop Cast Recording is avaiable for purchase and/or streaming o
 Singles from the album may be found on [Spotify](https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9), [YouTube](https://www.youtube.com/watch?v=kSuU6hc5n_0&list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5&index=1), [Amazon](https://music.amazon.com/albums/B0B6QJCBDZ) and more.
 
 ### Tickets
-The most current ticketing information and offers may be found on our [Ticketing Page](../tickets). You may also sign up on our mailing list for pop-up events and playtest rehearsals.
+The most current ticketing information and offers may be found on our [Ticketing Page](https://futurestages.github.io/npcmusical/tickets). You may also sign up on our mailing list for pop-up events and playtest rehearsals.
 
 ### Merchandise
 There is currenly no merchandise for Non-Player Character, however we welcome your suggestions and fan creations to share with the community using the hashtag *#NPCmusical*.
