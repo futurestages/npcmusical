@@ -14,6 +14,10 @@ nav_order: 2
 ## What Equipment Do I Need?
 *Non-Player Character* utilizes web-based virtual reality, also known as “social VR” or “WebXR” built upon the open-source client, [Mozilla Hubs. (You can learn more about that platform here.)](https://hubs.mozilla.com/docs/welcome.html) This allows (almost) any web connected device to enter a 3D virtual environment as a multi-player experience with other attendees represented as 3D avatars. This means you do not require *any* special equipment to join our virtual experience. 
 
+You simply type the url of your specific show into your device's web-browser and click "Join Room." This url is case sensitive and you may find it easier to "push" the link to your device by logging into [Oculus](https://9to5google.com/2022/01/19/android-link-sharing-oculus-quest-2-vr/) or [Firefox](https://venturebeat.com/business/firefox-reality-vr-browser-now-lets-users-sync-bookmarks-send-tabs-and-use-bluetooth-keyboards/) browsers beforehand and bookmarking the url. VR Users have had success with Oculus Browser, Firefox Reality, Wolvic, PS4 Browser, and Pico Browser.
+
+If joining via computer or PCVR, we recommend Google Chrome, Safari [and others](https://windowsreport.com/best-browser-vr/). 
+
 > * [You can test your own device by clicking here to access our onboarding lobby.](https://onboardxr.live/FQJnyUZ/listening/?k=listener)
 
 Venued performances have taken place in cinemas with select audience wearing VR headsets and directly interacting with the live performer in front of the movie screen. The virtual world is then projected onto the giant screen for seated spectators to watch both the performer and the projected image.
