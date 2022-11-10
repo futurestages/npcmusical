@@ -31,9 +31,21 @@ Before your showtime, you should receive an email with a **unique url** to acces
 We utilize the instant messaging platform, Discord, to guide and troubleshoot audiences through the onboarding process for our virtual shows. Venued performances primarily rely on the ticketing and house management of the physical theater. 
 
 ## Basic Controls & Troubleshooting
-Below please find the basic controls for navigating the experience on your desktop computer: 
-- AWAD and Arrow Keys
-- Settings
+
+### Settings & Preferences
+In the top left corner, you will see three-vertical dots () that reveal a drop down where you can access `Preferences` such as Audio Settings and Misc (resolution, material quality, nametags). You will also see a drop down arrow, and microphone icon that allow you to quickly change and mute your microphone.
+
+### Desktop Mode Controls
+Image for common AWAD and Arrow Keys
+
+### VR Controllers
+[Please find a list of controls for different VR devices on Mozilla’s blog.](https://hubs.mozilla.com/docs/hubs-controls.html)
+
+### Mobile Controls
+On mobile devices, two circles will appear on the bottom of your screen to simulate joysticks. The left joystick tilts your point-of-view or “head” to “look around.” The right joystick “walks” your avatars through the space.
+
+### User Interface
+We have added two overlays for Information and Troubleshooting. The (i) button will give you information about the performance, colloquially referred to as the programme or plabill.
 
 For virtual attendees using a VR Headset, please find the current [List of Controller Inputs](https://hubs.mozilla.com/docs/hubs-controls.html)
 
