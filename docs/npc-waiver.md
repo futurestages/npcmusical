@@ -25,10 +25,10 @@ In consideration of being permitted by The Jigsaw Ensemble, it’s host(s), empl
 
 I HAVE READ THE ABOVE WAIVER AND RELEASE AND BY SIGNING IT AGREE THAT IT IS MY INTENTION TO EXEMPT AND RELIEVE PRODUCTION FROM LIABILITY FOR PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH CAUSED BY NEGLIGENCE OR ANY OTHER CAUSE. 
 
-Participant Signature:		    ________________________________    Date: _________
-Full Name:			              ________________________________
-Mailing Address for Notices:	________________________________
-Email Address:		          	________________________________
+> Participant Signature:		    ________________________________    Date: _________
+> Full Name:			              ________________________________
+> Mailing Address for Notices:	________________________________
+> Email Address:		          	________________________________
 
 Electronic Signature Authorization
 *By applying my electronic signature to this agreement, I agree that my electronic signature is the legally binding equivalent of my handwritten signature on paper. I will not, at any future time, claim that my electronic signature is not legally binding or enforceable. By electronically signing and submitting this agreement, I 1) acknowledge that I have read and fully understand the terms of the agreement; 2) voluntarily agree to be bound by this agreement; and 3) certify that I am 18 years of age or older. My signature applies to all pages of this contract. I understand that I will receive a Portable Document Format (PDF) version of this agreement after it is signed at the email address I have provided. To view the PDF document, I understand that I will need software that enables me to receive and access PDF files such as Adobe Reader software or other software capable of reading a PDF file. In order to print and retain a hard copy of this agreement, I understand that I will also need a printer connected to my computer. I understand that if I wish to sign a hard copy of this agreement instead of an electronic version, I must contact the party that requires my signature on this agreement directly.* **______ Participant Initial**
