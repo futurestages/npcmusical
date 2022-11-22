@@ -26,8 +26,11 @@ In consideration of being permitted by The Jigsaw Ensemble, it’s host(s), empl
 I HAVE READ THE ABOVE WAIVER AND RELEASE AND BY SIGNING IT AGREE THAT IT IS MY INTENTION TO EXEMPT AND RELIEVE PRODUCTION FROM LIABILITY FOR PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH CAUSED BY NEGLIGENCE OR ANY OTHER CAUSE. 
 
 > Participant Signature:		    ________________________________    Date: _________
+> 
 > Full Name:			              ________________________________
+> 
 > Mailing Address for Notices:	________________________________
+> 
 > Email Address:		          	________________________________
 
 Electronic Signature Authorization
