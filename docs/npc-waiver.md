@@ -9,7 +9,7 @@ nav_order: 4
 #  Show Waiver
 The following sample waiver is posted and provided for our venue partners and on-site audiences as an example of what in-person attendees may be asked to sign to participate in the virtual reality experience. 
 
-## **PARTICIPATION WAIVER**
+## **SAMPLE PARTICIPATION WAIVER**
 
 In consideration of being permitted by The Jigsaw Ensemble, it’s host(s), employee(s), assign(s), and it’s affiliate(s) (herein collectively referred to as the “Production”) to use the equipment of and participate in the activities of Non-Player Character now and in the future, I, the undersigned, on behalf of myself, (and if applicable) my child, ward, spouse, insurers, heirs, and/or assigns (collectively, the “Releasing Parties”) hereby agree as follows:
 
