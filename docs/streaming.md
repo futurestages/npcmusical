@@ -1,7 +1,7 @@
 ---
 layout: default
 id: npc-terms
-title: Terms & Conditions
+title: Livestreaming
 parent: Policies
 nav_order: 6
 ---
