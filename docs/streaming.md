@@ -1,3 +1,10 @@
+---
+layout: default
+id: npc-terms
+title: Terms & Conditions
+parent: Policies
+nav_order: 6
+---
 
 # Livestreaming
 The accessibility of web-based virtual reality is unparalleled in that almost any web-connected device can join the VR experience. However, a much larger can still be accessed on secondary streaming platforms, like YouTube and Twitch. Non-Player Character offers a "cinema track" of the full experience for its in-person performances to be projected on the big screen that can be instead shared on livestream.
@@ -13,3 +20,6 @@ When attending a show, we recommend content-creators and/or VR streamers take th
 6. The chat will also be aggregated on Restream's backstage portal so you can respond to fans.
 7. Remember to start recording on OBS at the beginning of the show. 
 8. Resetream records a backup of the livestream if you would like to request the RAW video, otherwise you can download from your own channel.
+
+We know you take your channel(s) seriously and thank you for streaming your live experience of our performance to your community. 
+As the copyright holder of all music, characters, script, and audio-visual elements of Non-Player Character, filed under Case #1-10885416791 with the United States Copyright Office, there will be no copyright claims for the intended term and use of Non-Player Character, live, on-stream. Please contact us for an official letter to outline the terms and attribution required for live-streaming Non-Player Character. 
