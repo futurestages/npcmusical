@@ -51,13 +51,15 @@ in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresen
 - Please embed [Spotify Playlist](https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9) or [YouTube Playlist](https://www.youtube.com/playlist?list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5)
 
 ## Awards
+ - Winner, XR Must 'XR Event of the Year' 2022 (through OnBoardXR)
  - Winner, Queensland XR Best Virtual Reality Interactive Immersive Experience 2021
- - Finalist, The Auggie Awards Indie Creator(s) Award 2022
- - Finalist, No Proscenium Audience Award 2021/22
- - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021
- - Official Selection, FIVARS 2021
- - Official Selection, Mozilla Festival 2021
+ - Finalist, The Auggie Awards Indie Creator(s) Award 2022 (through OnBoardXR)
+ - Finalist, No Proscenium Audience Award 2021/22 (through OnBoardXR)
+ - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021 (through OnBoardXR)
+ - Official Selection, FIVARS 2021 (through OnBoardXR)
+ - Official Selection, Mozilla Festival 2021 (through OnBoardXR)
  - Official Selection, Palm Springs International Animation Festival 2022
+ - Official Selection, Open Online Theatre Festival 2022
 
 ## Media Assets
 - [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
