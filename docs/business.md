@@ -17,6 +17,8 @@ As the experience is accessible via web browser, we need only to open a link on 
 
 The show is most successful when our team has an opportunity for at least one tech rehearsal in the space prior to the performance(s) and we prefer to include at least three (3) team members in each performance to provide a dedicated focus on Live Performance, Virtual Stage Management, and Audio Playback. Additional team members or on-site staff may offer support for lighting, livestreaming, equipment and audience management. We recommed our venue partners provide some on-site staff/representatives as docents or house management in the event of any safety or guest services concerns.
 
+*Note: Due to our team's advocacy for the technology's compelling efffect in-person and on-site, requests for virtual/remote performances should not be interpretted as a discounted or budget version.*
+
 
 ### Livestreaming
 The virtual experience can be broadcast to practically any livestreaming platform by screen sharing the POV of a user. We have also designed a **"cinema track"** that can automatically move the user's POV throughout the show to *"the best seat in the house"* for each moment in the live show, like a ride at a theme park. This offers audiences all over the world the ability to watch the performance without attending a physical venue or operating any controllers. We refer to this as our 'virtual balcony ticket' and can also make this feature available to Influencers who wish to livestream their gameplay for their online audience. 
