@@ -11,7 +11,9 @@ The application of XR technology, especially web-based virtual reality, allows *
 First and foremost, ***NPC* is a work of musical theater performed with a live audience** who may watch and interact with a live, singing actor in virtual reality and live musician performing multiple instruments and mixing digital tracks. We are open to working with your specific event and venue needs, with a mission to introduce as many new audiences as possible to this exciting story and technology. 
 
 ### How to Tour/Host the Show
-As the experience is accessible via web browser, **our team is able to travel with much of the equipment needed to power the show**. We need only to open a link on the computer already connected to the **venue's projector** and plug our audio stero input into the **venue's sound system**. We prefer our venue partners to provide: 
+As the experience is accessible via web browser, **our team is able to travel with much of the equipment needed to power the show**. We need only to open a link on the computer already connected to the **venue's projector** and plug our audio stero input into the **venue's sound system**. 
+
+We request our venue partners to provide: 
 - the on-site projector, 
 - sound system, 
 - robust WIFI,
