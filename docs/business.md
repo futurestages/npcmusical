@@ -28,7 +28,7 @@ Audiences have delighted in a hybrid, in-person experience where **Four (4) audi
 
 The show is most successful when our team has an opportunity for at least one tech rehearsal in the space prior to the performance(s) and we prefer to include at least three (3) team members in each performance to provide a dedicated focus on Live Performance, Virtual Stage Management, and Audio Playback. Additional team members or on-site staff may offer support for lighting, livestreaming, equipment and audience management. We recommed our venue partners provide some on-site staff/representatives as docents or house management in the event of any safety or guest services concerns.
 
-*Note: Due to our team's advocacy for the technology's compelling efffect in-person and on-site, requests for virtual/remote performances should not be interpretted as a discounted or budget version.*
+*Note: Due to our team's advocacy for the technology's compelling effect in-person and on-site, requests for virtual/remote performances should not be interpretted as a discounted or budget version.*
 
 
 ### Livestreaming
