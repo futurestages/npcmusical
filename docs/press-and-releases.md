@@ -55,6 +55,7 @@ in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresen
 
 ## Awards
 - Finalist, The Auggie Awards Indie Creator(s) Award 2023 (through OnBoardXR)
+- Winner, Young-Howze Theatre Awards “Maestro Award” & “Capture Award”
 - Winner, XR Must 'XR Event of the Year' 2022 (through OnBoardXR)
 - Winner, Queensland XR Best Virtual Reality Interactive Immersive Experience 2021
 - Finalist, The Auggie Awards Indie Creator(s) Award 2022 (through OnBoardXR)
@@ -63,6 +64,8 @@ in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresen
 - Official Selection, FIVARS 2021 (through OnBoardXR)
 - Official Selection, Mozilla Festival 2021 (through OnBoardXR)
  - Official Selection, Palm Springs International Animation Festival 2022
+ - Honorary Mention, Richmond International Festival 2022
+ - Semi-Finalist, Flickers’ Rhode Island International Film Festival 2022
  - Official Selection, Open Online Theatre Festival 2022
  - Official Selection, United States Institute of Theater Technology 2023
  - Official Selection, Avignon Festival 2023
