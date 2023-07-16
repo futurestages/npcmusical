@@ -70,5 +70,5 @@ in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresen
 ## Media Assets
 - [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
 - [Approved Logo(s)](https://www.dropbox.com/sh/6ly0oifrs1en1y9/AAD8GauaqdKzN45KjSVC82Cka?dl=0)
-- [Approved Trailer] (https://www.dropbox.com/scl/fo/1xgwfz8m57nqccy6wvlo3/h?rlkey=ba5f3n22fge8hov72p63x0r3c&dl=0) 
+- [Approved Trailer](https://www.dropbox.com/scl/fo/1xgwfz8m57nqccy6wvlo3/h?rlkey=ba5f3n22fge8hov72p63x0r3c&dl=0) 
 - Request additional materials by emailing **brendanAbradley (at) gmail (dot) com**
