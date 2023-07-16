@@ -5,7 +5,7 @@ parent: Press
 nav_order: 1
 ---
 ## Request Interview / Press Pass
-We welcome all coverage of *Non-Player Character*. Please contact *info (at) jigsawensemble (dot) com* for media requests and/or complimentary/private performances. Below please find approved press materials and pull quotes. Thank you! 
+We welcome all coverage of *Non-Player Character*. Please contact *brendanAbradley (at) gmail (dot) com* for media requests and/or complimentary/private performances. Below please find approved press materials and pull quotes. Thank you! 
 
   ![Non-Player Character Press Banner](../img/NPC-Banner-PullQuotes.png)
   
@@ -42,27 +42,33 @@ with [Info Music](https://www.infomusic.fr/plongez-dans-un-monde-virtuel-avec-br
  
 in what [Roadie Music Magazine](https://roadie-music.com/brendan-bradley-apresenta-reprogram-me-workshop-cast-recording-non-player-character-the-musical-uma-fantastica-experiencia-audiovisual/) called, 
 > *“A delightful and fascinating piece of live musical theater in web-based virtual reality that anyone can watch in their browser, even without a VR headset.”*
+>
+*"Yet, the reason to see NPC is Bradley,"* writes [No Proscenium](), *"His multi-faceted performance is delightful, hilarious, and heartwarming... witty and playful improvisation with the audience... nailing everything from massive showstoppers to heartfelt soliloquies."*
 
 *“In the story, Bradley fully improvises with four audience participants in virtual reality headsets and the seated spectator audience watching on the big screen with only the safety net of his songs to regain control of the show to elegantly transition the audience between acts of this co-created catharsis,”* from [Urbanista](https://urbanistamagazine.uk/brendan-bradleys-virtual-reality-musical-non-player-character-debuts-on-top-soundtrack-chart-with-first-single-reprogram-me-arriving-at-no-25-on-itunes/), *“Bradley sings while literally gathering the audience in the palm of his hand and lifting us into the game world using mechanics that could only happen in virtual reality…I can honestly say a performer has never scooped me up and sung to me before and it’s easy to see why *Non-Player Character* won [Best Interactive Virtual Reality Experience](https://twitter.com/qldxrfestival/status/1520401672698494977?s=20&t=zkpCcUd1C4V1CZtXnPGk8g) at Queensland XR Festival earlier this year.”*
 
 ## Current Call To Action 
-*Non-Player Character*’s will perform live at [USITT St. Louis in mid-March 2023](https://brendanabradley.com/stl). The conference will feature a panel and mainstage performance to share the opportunity for XR technology in live events at the leading event in life-long learning opportunities for the entertainment design and technology industry. Select virtual "open rehearsals" will be scheduled for press and decision-makers leading up to the event. 
-- Please link to [Soundtrack on iTunes](https://music.apple.com/album/1634852775?app=itunes&ign-itscg=30200&ign-itsct=toolbox_linkbuilder)
-- Please embed [Spotify Playlist](https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9) or [YouTube Playlist](https://www.youtube.com/playlist?list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5)
+*Non-Player Character*’s will perform live at Avignon Festival in July 2023. Select virtual "open rehearsals" will be scheduled for press and decision-makers leading up to the event. 
+- Please embed [Spotify Playlist](https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9)
+- and [YouTube Trailer](https://www.youtube.com/watch?v=GsWZBImWSl0)
+- in all articles or listings for the performance. Thank you! 
 
 ## Awards
- - Winner, XR Must 'XR Event of the Year' 2022 (through OnBoardXR)
- - Winner, Queensland XR Best Virtual Reality Interactive Immersive Experience 2021
- - Finalist, The Auggie Awards Indie Creator(s) Award 2022 (through OnBoardXR)
- - Finalist, No Proscenium Audience Award 2021/22 (through OnBoardXR)
- - Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021 (through OnBoardXR)
- - Official Selection, FIVARS 2021 (through OnBoardXR)
- - Official Selection, Mozilla Festival 2021 (through OnBoardXR)
+- Finalist, The Auggie Awards Indie Creator(s) Award 2023 (through OnBoardXR)
+- Winner, XR Must 'XR Event of the Year' 2022 (through OnBoardXR)
+- Winner, Queensland XR Best Virtual Reality Interactive Immersive Experience 2021
+- Finalist, The Auggie Awards Indie Creator(s) Award 2022 (through OnBoardXR)
+- Finalist, No Proscenium Audience Award 2021/22 (through OnBoardXR)
+- Finalist, The Polys WebXR Awards Entertainment Experience of the Year 2021 (through OnBoardXR)
+- Official Selection, FIVARS 2021 (through OnBoardXR)
+- Official Selection, Mozilla Festival 2021 (through OnBoardXR)
  - Official Selection, Palm Springs International Animation Festival 2022
  - Official Selection, Open Online Theatre Festival 2022
+ - Official Selection, United States Institute of Theater Technology 2023
+ - Official Selection, Avignon Festival 2023
 
 ## Media Assets
 - [Approved Stills](https://www.dropbox.com/sh/4smj1ke63nup81u/AAC3c7r87bJ3RV2r2LOGcg9Ya?dl=0)
 - [Approved Logo(s)](https://www.dropbox.com/sh/6ly0oifrs1en1y9/AAD8GauaqdKzN45KjSVC82Cka?dl=0)
-- Approved Clips (coming soon)
-- Request additional materials by emailing **info (at) jigsawensemble (dot) com**
+- [Approved Trailer] (https://www.dropbox.com/scl/fo/1xgwfz8m57nqccy6wvlo3/h?rlkey=ba5f3n22fge8hov72p63x0r3c&dl=0) 
+- Request additional materials by emailing **brendanAbradley (at) gmail (dot) com**
