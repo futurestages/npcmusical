@@ -30,14 +30,31 @@ To offer more interaction to users without VR headsets, we also have a Webapp fo
 (*icons by Unwired Dance Theatre & Cuputo from The Noun Project*)
 
 ## General Setup
-We appreciate that every venue and partner has their own best practices for audio-visual transmission and livestreaming. As a general overview, the diagram below is meant to begin the conversation of how *Non-Player-Character* is designed to be **plug-and-play with most existing Projector and Public Address systems**. As the experience is accessible via web browser, we need only to open a webpage on the computer already connected to the venue’s projector and plug our audio input into the venue’s sound system.
+We appreciate that every venue and partner has their own best practices for audio-visual transmission and livestreaming. As a general overview, the diagram below is meant to begin the conversation of how *Non-Player-Character* is designed to be **plug-and-play with most existing Projector and Public Address systems**. As the experience is accessible via web browser, our first and biggest priority is to open a webpage on the computer already connected to the venue’s projector and plug our audio input into the venue’s sound system.
 
 **The most important consideration for any experience like *Non-Player Character* is ensuring dedicated, private WiFi Router for the Staff that is capable of supporting a half a dozen wireless devices.** 
 
+### Wish List from Creative Team
+These are items that will need to be sourced or imported for the performance. The Creative Team has been able to transport some of these items in the past, but often at more considerable cost that acquiring on the ground. We encourage dialogue early and often about how to set the show and our venue partners up for success.
+> Dedicated wifi network for headsets with high speed internet (at least 25mbps, ideally 100mbps+)
+> High powered PC for projection with OBS downloaded and ethernet connection to high speed internet (200mbps+ desired)
+> Six (6) stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
+> Dedicated power strip to stage floor/area
+> Line-out from stage floor/area to sound system
+> Computer Monitor & Table on stage floor/area
+> Midi Keyboard & cables
+> Electric Guitar & cables
+> Wireless headset microphone, transmitter and receiver
+> Boom microphone to capture "room" audience reactions
+> Stage lighting for "color wash" to bring the colors of the virtual world into the physical venue; "movers" to energize and excite key moments of the performance; and "specials" to spotlight moments of intimacy or isolation in the performance. 
+
+### VR Cueing
 Stage Management can control the virtual cues in parralel with any traditional theatrical cueing in the venue. 
 
+### Music
 Our Music Director can control a mix of live and pre-recorded instruments from on-stage, sending separate signals to both the PA System and Virtual experience. If live music is not requested, pre-recorded backing tracks may also be cued from Venue's existing sound interface.
 
-For livestreaming the experience to remote audiences, the easiest method is to stream the same capture the Projector is receiving of the virtual world. However, some venues have opted to add additional cameras or feeds and we are happy to support this workflow.
+### Livestreaming
+For livestreaming the experience to remote audiences, the easiest method is to stream the same capture the Projector is receiving of the virtual world. Ideally this feed is intercut with additional cameras or feeds capturing the on-site performance by identifiying local videographers. The NPC team is happy to consult on the most efficient and effective workflow that has been used by previous venues.
 
 ![image](https://futurestages.github.io/npcmusical/img/map-technicalsetup.png)
