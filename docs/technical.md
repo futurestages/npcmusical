@@ -32,12 +32,12 @@ To offer more interaction to users without VR headsets, we also have a Webapp fo
 ## General Setup
 We appreciate that every venue and partner has their own best practices for audio-visual transmission and livestreaming. As a general overview, the diagram below is meant to begin the conversation of how *Non-Player-Character* is designed to be **plug-and-play with most existing Projector and Public Address systems**. As the experience is accessible via web browser, our first and biggest priority is to open a webpage on the computer already connected to the venue’s projector and plug our audio input into the venue’s sound system.
 
-**The most important consideration for any experience like *Non-Player Character* is ensuring dedicated, private WiFi Router for the Staff that is capable of supporting a half a dozen wireless devices.** 
+> **The most important consideration for any experience like *Non-Player Character* is ensuring dedicated, private WiFi Router for the Staff that is capable of supporting a half a dozen wireless devices.** 
 
 ### Wish List from Creative Team
 These are items that will need to be sourced or imported for the performance. The Creative Team has been able to transport some of these items in the past, but often at more considerable cost that acquiring on the ground. We encourage dialogue early and often about how to set the show and our venue partners up for success.
-> Dedicated wifi network for headsets with high speed internet (at least 25mbps, ideally 100mbps+)
-> High powered PC for projection with OBS downloaded and ethernet connection to high speed internet (200mbps+ desired)
+- Dedicated wifi network for headsets with high speed internet (at least 25mbps, ideally 100mbps+)
+- High powered PC for projection with OBS downloaded and ethernet connection to high speed internet (200mbps+ desired)
 - Six (6) stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
 - Dedicated power strip to stage floor/area
 - Line-out from stage floor/area to sound system
