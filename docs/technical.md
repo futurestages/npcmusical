@@ -36,17 +36,17 @@ We appreciate that every venue and partner has their own best practices for audi
 
 ### Wish List from Creative Team
 These are items that will need to be sourced or imported for the performance. The Creative Team has been able to transport some of these items in the past, but often at more considerable cost that acquiring on the ground. We encourage dialogue early and often about how to set the show and our venue partners up for success.
-- Dedicated wifi network for headsets with high speed internet (at least 25mbps, ideally 100mbps+)
-- High powered PC for projection with OBS downloaded and ethernet connection to high speed internet (200mbps+ desired)
-- Six (6) stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
-- Dedicated power strip to stage floor/area
-- Line-out from stage floor/area to sound system
-- Computer Monitor & Table on stage floor/area
-- Midi Keyboard & cables
-- Electric Guitar & cables
-- Wireless headset microphone, transmitter and receiver
-- Boom microphone to capture "room" audience reactions
-- Stage lighting for "color wash" to bring the colors of the virtual world into the physical venue; "movers" to energize and excite key moments of the performance; and "specials" to spotlight moments of intimacy or isolation in the performance. 
+- [ ] Dedicated wifi network for headsets with high speed internet (at least 25mbps, ideally 100mbps+)
+- [ ] High powered PC for projection with OBS downloaded and ethernet connection to high speed internet (200mbps+ desired)
+- [ ] Six (6) stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
+- [ ] Dedicated power strip to stage floor/area
+- [ ] Line-out from stage floor/area to sound system
+- [ ] Computer Monitor & Table on stage floor/area
+- [ ] Midi Keyboard & cables
+- [ ] Electric Guitar & cables
+- [ ] Wireless headset microphone, transmitter and receiver
+- [ ] Boom microphone to capture "room" audience reactions
+- [ ] Stage lighting for "color wash" to bring the colors of the virtual world into the physical venue; "movers" to energize and excite key moments of the performance; and "specials" to spotlight moments of intimacy or isolation in the performance. 
 
 ### VR Cueing
 Stage Management can control the virtual cues in parralel with any traditional theatrical cueing in the venue. 
