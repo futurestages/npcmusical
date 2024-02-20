@@ -40,10 +40,12 @@ These are items that will need to be sourced or imported for the performance. Th
 - [ ] High powered PC for projection with OBS downloaded and ethernet connection to high speed internet (200mbps+ desired)
 - [ ] Six (6) stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
 - [ ] Dedicated power strip to stage floor/area
-- [ ] Line-out from stage floor/area to sound system
-- [ ] Computer Monitor & Table on stage floor/area
-- [ ] Midi Keyboard & cables
-- [ ] Electric Guitar & cables
+- [ ] Small Table on stage floor/area
+- [ ] Line-out from stage floor/area to sound system (Venue specific: ¼ INCH CABLES TO LINE INPUTS ON MIXER? STAGE BOX? DI BOXES?)
+- [ ] Two (2) Computer Monitor (24" preferred) with powercable(s) and HDMI
+- [ ] Midi Keyboard (61 KEY MINIMUM, M-AUDIO, ARTURIA, NOVATION, ADDITIONAL CC CONTROLLERS - FADERS, KNOBS, TRANSPORT)
+- [ ] Keyboard Pedal & Power Cable
+- [ ] Electric Guitar (FENDER STRATOCASTER, STRAP, ¼ CABLE, STAND)
 - [ ] Wireless headset microphone, transmitter and receiver
 - [ ] Boom microphone to capture "room" audience reactions
 - [ ] Stage lighting for "color wash" to bring the colors of the virtual world into the physical venue; "movers" to energize and excite key moments of the performance; and "specials" to spotlight moments of intimacy or isolation in the performance. 
