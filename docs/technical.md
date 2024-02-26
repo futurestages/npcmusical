@@ -45,7 +45,7 @@ We encourage consulting with the venue beforehand to support their existing meth
 - [ ] Line-out from stage floor/area to sound system (Venue specific: ¼ INCH CABLES TO LINE INPUTS ON MIXER? STAGE BOX? DI BOXES?)
 - [ ] 6 x stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
 
-**These are items the performance likes to have when sourced locally**
+**These are items the performance likes to have sourced locally**
 - [ ] Two (2) Computer Monitor (24" preferred) with powercable(s) and HDMI
 - [ ] Midi Keyboard (61 KEY MINIMUM, M-AUDIO, ARTURIA, NOVATION, ADDITIONAL CC CONTROLLERS - FADERS, KNOBS, TRANSPORT)
 - [ ] Keyboard Pedal & Power Cable
