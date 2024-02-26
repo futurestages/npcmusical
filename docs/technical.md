@@ -35,7 +35,9 @@ We appreciate that every venue and partner has their own best practices for audi
 > **The most important consideration for any experience like *Non-Player Character* is ensuring dedicated, private WiFi Router for the Staff that is capable of supporting a half a dozen wireless devices.** 
 
 ### Wish List from Creative Team
-These are items the performance requires:
+We encourage consulting with the venue beforehand to support their existing method of receiving (a) stereo audio source for the live music, (b) HD video source for the live projections, and (c) coordinating on-the-ground equipment, instruments, projectors and preferences. 
+
+**These are items the performance needs:**
 - [ ] Dedicated wifi network for headsets with high speed internet (at least 25mbps, ideally 100mbps+)
 - [ ] The on-site PC used for projections needs a web browser and ethernet connection to high speed internet (200mbps+ desired)
 - [ ] Dedicated power strip to stage floor/area
@@ -43,8 +45,7 @@ These are items the performance requires:
 - [ ] Line-out from stage floor/area to sound system (Venue specific: ¼ INCH CABLES TO LINE INPUTS ON MIXER? STAGE BOX? DI BOXES?)
 - [ ] 6 x stand-alone headsets (either Quest 2, Quest 3, Quest Pro, or AVP) and charging cables
 
-The Creative Team has been able to transport some of these items in the past, but often at more considerable cost to venue than sourcing locally. 
-We encourage dialogue early and often about how to set the show and our venue partners up for success.
+**These are items the performance likes to have when sourced locally**
 - [ ] Two (2) Computer Monitor (24" preferred) with powercable(s) and HDMI
 - [ ] Midi Keyboard (61 KEY MINIMUM, M-AUDIO, ARTURIA, NOVATION, ADDITIONAL CC CONTROLLERS - FADERS, KNOBS, TRANSPORT)
 - [ ] Keyboard Pedal & Power Cable
