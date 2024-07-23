@@ -13,6 +13,20 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
     <link rel="stylesheet" href="css/style.css">
     <style>
+	    .container {
+    display: flex;
+    align-items: center; /* Vertically center align items */
+}
+
+.image-container {
+    flex: 0 0 auto; /* Avoid image from stretching */
+    margin-right: 20px; /* Adjust margin as needed */
+}
+
+.text-container {
+    flex: 1; /* Take remaining space */
+    text-align: right; /* Right align text */
+}
         .header_button iframe {
          width: 1348px;
          height: 550px;
@@ -81,9 +95,16 @@ src="https://www.facebook.com/tr?id=1098764404039997&ev=PageView&noscript=1"
 		<div id="tour-container">
 			 <h1 class="text-center">MEET THE TEAM</h1>
 			
-			<img src="https://raw.githubusercontent.com/futurestages/npcmusical/main/img/portrait_Brendan.png" height="200px">
-				 <p><b>BRENDAN BRADLEY</b> (Writer, Director, Performer) makes his Edinburgh Fringe Festival debut with the world premiere run of NON-PLAYER CHARACTER. Other interactive performance credits include NON-PLAYER CHARACTER (Edinburgh Fringe Festival), DEGENERATE (VR Awards), RESIDENT EVIL:VILLAGE (Capcom), MIDNIGHT SUNS (Marvel), ONBOARDXR, and JETTISON for which he was a Finalist for The Producer Guild of America’s Innovation Award. His film and television work spans over 100 titles, including the upcoming SUCCUBUS (starring opposite Ron Perlman and Rosanna Arquette) THE DAYLONG BROTHERS (starring opposite Keith Carradine). He received his training at The Royal Academy of Dramatic Arts (RADA) in London and New York University’s Tisch School of the Arts where he founded The Brendan Bradley Integrative Technology Lab for introducing real-time storytelling technology into the live arts curriculum. More at brendanAbradley.com @brendanAbradley  
-				</p>		
+			<div class="container">
+    <div class="image-container">
+        <img src="https://raw.githubusercontent.com/futurestages/npcmusical/main/img/portrait_Brendan.png" height="200px" alt="Brendan Bradley">
+    </div>
+    <div class="text-container">
+        <p><b>BRENDAN BRADLEY</b> (Writer, Director, Performer) makes his Edinburgh Fringe Festival debut with the world premiere run of NON-PLAYER CHARACTER. Other interactive performance credits include NON-PLAYER CHARACTER (Edinburgh Fringe Festival), DEGENERATE (VR Awards), RESIDENT EVIL: VILLAGE (Capcom), MIDNIGHT SUNS (Marvel), ONBOARDXR, and JETTISON for which he was a Finalist for The Producer Guild of America’s Innovation Award. His film and television work spans over 100 titles, including the upcoming SUCCUBUS (starring opposite Ron Perlman and Rosanna Arquette) THE DAYLONG BROTHERS (starring opposite Keith Carradine). He received his training at The Royal Academy of Dramatic Arts (RADA) in London and New York University’s Tisch School of the Arts where he founded The Brendan Bradley Integrative Technology Lab for introducing real-time storytelling technology into the live arts curriculum. More at brendanAbradley.com @brendanAbradley</p>
+    </div>
+</div>
+
+			
 				<br>
 			<img src="https://raw.githubusercontent.com/futurestages/npcmusical/main/img/portrait_Michael.png">
 				<p><b>MICHAEL MORRAN</b> (Technical Director) 
