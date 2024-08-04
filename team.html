@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+	
+	<header class="headerwithlogo">
+		<div class="">
+			<div class="header-flex">
+				<div class="header-left">
+					<div onclick="openm();">
+						<i class="fa fa-bars"></i> <span class="hidemob">MENU</span>
+					</div>
+				</div>
+				<div class="text-center">
+					<a href="index.html"><img src="img/logo.png" class="logom"></a>
+				</div>
+				<div class="header-right">
+					<a href="tickets.html">TICKETS</a>
+				</div>
+			</div>
+		</div>
+	</header>
+	<header class="top-header">
+		<div class="">
+			<div class="header-flex">
+				<div class="header-left">
+					<div onclick="openm();">
+						<i class="fa fa-bars"></i> <span class="hidemob">MENU</span>
+					</div>
+				</div>
+				<div class="text-center">
+					<a href="index.html"><img src="img/logo.png" class="logom"></a>
+				</div>
+				<div class="header-right">
+					<a href="tickets.html">TICKETS</a>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="menu">
+		<div class="close" onclick="closem();"><i class="fa fa-close"></i></div>
+		<div>
+			<a href="index.html">Home</a> <br />
+			<a href="tickets.html">Tickets</a><br />
+			<a href="team.html"  class="active">Team</a><br />
+			<a href="tour.html">Tour</a>
+		</div>
+	</div>
+	<div class="top-sec">
+		<div class="container">
+			<h1>TEAM</h1>
+		</div>
+	</div>
+	
+	<img src="img/dvd.svg" class="full">
+	<div class="bg-white">
+		
+		<div class="container">
+			<div class="three-col">
+				<div class="single-member" onclick="mone();">
+					<img src="img/member1.webp">
+					<div class="memebername">CHARLIE BURN</div>
+					<div class="membertitle">CADY HERON</div>
+					
+				</div>
+				
+				<div class="single-member" onclick="mtwo();">
+					<img src="img/member1.webp">
+					<div class="memebername">CHARLIE BURN</div>
+					<div class="membertitle">CADY HERON</div>
+					
+				</div>
+				<div class="single-member" onclick="mthree();">
+					<img src="img/member1.webp">
+					<div class="memebername">CHARLIE BURN</div>
+					<div class="membertitle">CADY HERON</div>
+					
+				</div>
+				<div class="single-member" onclick="mfour();">
+					<img src="img/member1.webp">
+					<div class="memebername">CHARLIE BURN</div>
+					<div class="membertitle">CADY HERON</div>
+					
+				</div>
+				<div class="single-member" onclick="mfive();">
+					<img src="img/member1.webp">
+					<div class="memebername">CHARLIE BURN</div>
+					<div class="membertitle">CADY HERON</div>
+					
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	<img src="img/dvd2.svg" class="full">
+	
+	<div class="pop" id="pop1">
+		<div class="inner-pop">
+			<i class="fa fa-close" onclick="closepop();"></i>
+			<div>
+				<img src="img/member1.webp">
+			</div>
+			<div>
+				<div class="memebername">CHARLIE BURN</div>
+				<div class="membertitle">CADY HERON</div>
+				<div class="bio">
+                    <p>Training: The Arts Educational School in London.</p>
+					<p>Theatre credits include: <em>Les Misérables</em> (UK &amp; Ireland Tour and Sondheim Theatre); <em>Les Misérables: The Staged Concert</em> (Sondheim Theatre)<em>;</em> <em>Disney100: The Concert</em> (UK &amp; International Tour).</p>
+					<p>Workshop credits include: <em>Back to the Future</em>; <em>Andrew Lloyd Webber’s Cinderella</em> (The Other Palace).</p>
+					<p>Concert credits include: <em>Disney’s WISH</em> Premiere (CPGP); <em>Concerto Capodanno</em> (Teatro Massimo, Palermo); <em>West Side Story</em> (BBC Proms);<em> Let’s Face The Music </em>(Royal Philharmonic Orchestra); The Olivier Awards.</p>
+                </div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="pop" id="pop2">
+		<div class="inner-pop">
+			<i class="fa fa-close" onclick="closepop();"></i>
+			<div>
+				<img src="img/member1.webp">
+			</div>
+			<div>
+				<div class="memebername">CHARLIE BURN</div>
+				<div class="membertitle">CADY HERON</div>
+				<div class="bio">
+                    <p>Training: The Arts Educational School in London.</p>
+					<p>Theatre credits include: <em>Les Misérables</em> (UK &amp; Ireland Tour and Sondheim Theatre); <em>Les Misérables: The Staged Concert</em> (Sondheim Theatre)<em>;</em> <em>Disney100: The Concert</em> (UK &amp; International Tour).</p>
+					<p>Workshop credits include: <em>Back to the Future</em>; <em>Andrew Lloyd Webber’s Cinderella</em> (The Other Palace).</p>
+					<p>Concert credits include: <em>Disney’s WISH</em> Premiere (CPGP); <em>Concerto Capodanno</em> (Teatro Massimo, Palermo); <em>West Side Story</em> (BBC Proms);<em> Let’s Face The Music </em>(Royal Philharmonic Orchestra); The Olivier Awards.</p>
+                </div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="pop" id="pop3">
+		<div class="inner-pop">
+			<i class="fa fa-close" onclick="closepop();"></i>
+			<div>
+				<img src="img/member1.webp">
+			</div>
+			<div>
+				<div class="memebername">CHARLIE BURN</div>
+				<div class="membertitle">CADY HERON</div>
+				<div class="bio">
+                    <p>Training: The Arts Educational School in London.</p>
+					<p>Theatre credits include: <em>Les Misérables</em> (UK &amp; Ireland Tour and Sondheim Theatre); <em>Les Misérables: The Staged Concert</em> (Sondheim Theatre)<em>;</em> <em>Disney100: The Concert</em> (UK &amp; International Tour).</p>
+					<p>Workshop credits include: <em>Back to the Future</em>; <em>Andrew Lloyd Webber’s Cinderella</em> (The Other Palace).</p>
+					<p>Concert credits include: <em>Disney’s WISH</em> Premiere (CPGP); <em>Concerto Capodanno</em> (Teatro Massimo, Palermo); <em>West Side Story</em> (BBC Proms);<em> Let’s Face The Music </em>(Royal Philharmonic Orchestra); The Olivier Awards.</p>
+                </div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="pop" id="pop4">
+		<div class="inner-pop">
+			<i class="fa fa-close" onclick="closepop();"></i>
+			<div>
+				<img src="img/member1.webp">
+			</div>
+			<div>
+				<div class="memebername">CHARLIE BURN</div>
+				<div class="membertitle">CADY HERON</div>
+				<div class="bio">
+                    <p>Training: The Arts Educational School in London.</p>
+					<p>Theatre credits include: <em>Les Misérables</em> (UK &amp; Ireland Tour and Sondheim Theatre); <em>Les Misérables: The Staged Concert</em> (Sondheim Theatre)<em>;</em> <em>Disney100: The Concert</em> (UK &amp; International Tour).</p>
+					<p>Workshop credits include: <em>Back to the Future</em>; <em>Andrew Lloyd Webber’s Cinderella</em> (The Other Palace).</p>
+					<p>Concert credits include: <em>Disney’s WISH</em> Premiere (CPGP); <em>Concerto Capodanno</em> (Teatro Massimo, Palermo); <em>West Side Story</em> (BBC Proms);<em> Let’s Face The Music </em>(Royal Philharmonic Orchestra); The Olivier Awards.</p>
+                </div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="pop" id="pop5">
+		<div class="inner-pop">
+			<i class="fa fa-close" onclick="closepop();"></i>
+			<div>
+				<img src="img/member1.webp">
+			</div>
+			<div>
+				<div class="memebername">CHARLIE BURN</div>
+				<div class="membertitle">CADY HERON</div>
+				<div class="bio">
+                    <p>Training: The Arts Educational School in London.</p>
+					<p>Theatre credits include: <em>Les Misérables</em> (UK &amp; Ireland Tour and Sondheim Theatre); <em>Les Misérables: The Staged Concert</em> (Sondheim Theatre)<em>;</em> <em>Disney100: The Concert</em> (UK &amp; International Tour).</p>
+					<p>Workshop credits include: <em>Back to the Future</em>; <em>Andrew Lloyd Webber’s Cinderella</em> (The Other Palace).</p>
+					<p>Concert credits include: <em>Disney’s WISH</em> Premiere (CPGP); <em>Concerto Capodanno</em> (Teatro Massimo, Palermo); <em>West Side Story</em> (BBC Proms);<em> Let’s Face The Music </em>(Royal Philharmonic Orchestra); The Olivier Awards.</p>
+                </div>
+			</div>
+		</div>
+	</div>
+	
+	<script>
+		function mone(){
+			$('#pop1').addClass('showpop');
+		}
+		function mtwo(){
+			$('#pop2').addClass('showpop');
+		}
+		function mthree(){
+			$('#pop3').addClass('showpop');
+		}
+		function mfour(){
+			$('#pop4').addClass('showpop');
+		}
+		function mfive(){
+			$('#pop5').addClass('showpop');
+		}
+		
+		
+		
+		
+		
+		
+		
+		function closepop(){
+			$('.pop').removeClass('showpop');
+		}
+	</script>
+	
+	<footer>
+		<div class="container">
+			<div class="footer-flex">
+				<div class="social">
+					<!-- add your social links -->
+					<a href="https://music.apple.com/us/album/non-player-character-workshop-musical-cast-recording/1634852775?app=itunes"><i class="bi bi-apple"></i></a> 
+					<a href="https://open.spotify.com/playlist/35mTHeqw1SdDWaKxzUA3o9"><i class="bi bi-spotify"></i></a> 
+					<a href="https://www.youtube.com/watch?v=kSuU6hc5n_0&amp;list=PLYRxBw6QnHiwWza9XQfjfMNiDxwCNVPz5"><i class="bi bi-youtube"></i></a>
+					<a href="https://twitter.com/brendanabradley"><i class="bi bi-twitter"></i></a>    
+					<a href="https://instagram.com/brendanabradley"><i class="bi bi-instagram"></i></a>  
+					<a href="https://tiktok.com/@brendanabradley"><i class="bi bi-tiktok"></i></a>
+					<a href="https://github.com/futurestages"><i class="bi bi-github"></i></a>
+                </div>
+				<div class="text-center">
+					<ul>
+						<li>FOR INQUIRIES: <a href="https://futurestages.github.io/npcmusical/docs/press-and-releases/"><b>PRESS</b> |</a></li>
+						<li><a href="https://futurestages.github.io/npcmusical/docs/business/"><b>TOURING</b> </a></li>
+					</ul>
+                </div>
+				<div class="text-right">
+					<ul>
+						<li><a href="https://futurestages.github.io/npcmusical/docs/npc-privacy/"><small>PRIVACY |</small></a></li>
+						<li><a href="https://futurestages.github.io/npcmusical/docs/npc-terms/"><small>TERMS &amp; CONDITIONS |</small></a></li>
+						<li><a href="https://futurestages.github.io/npcmusical/docs/npc-cookie/"><small>COOKIES</small></a></li>
+					</ul>
+                </div>
+			</div>
+		</div>
+	</footer>
+	<div class="footer-bottom">
+	
+	
+	
+	
+	
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	
+	
+	<script>
+	 
+	
+	$(document).ready(function(){
+		$(window).scroll(function(){
+			if ($(this).scrollTop() > 50) {
+				$('.headerwithlogo').addClass('visible');
+				//$('.headerwithlogo').show();
+			} else {
+				$('.headerwithlogo').removeClass('visible');
+				//$('.headerwithlogo').hide();
+			}
+		});
+	});
+	
+
+	function openm(){
+		$('.menu').addClass('visiblem');
+	}
+	function closem(){
+		$('.menu').removeClass('visiblem');
+	}
+	</script>
+
+</body>
+</html>
