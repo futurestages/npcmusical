@@ -443,7 +443,7 @@ h1{
 	height:400px
 }
 .two-col a{
-	padding: 12px 31px;
+	    padding: 12px 31px;
     display: inline-block;
     background-color: #9e009d;
     color: white;
