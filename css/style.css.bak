@@ -1,6 +1,9 @@
 *, ::after, ::before {
     box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 body{
 	margin:0px;
 	background-image: url(../img/bg.webp);
@@ -381,6 +384,12 @@ h1{
     font-family: 'Oswald';
     text-align: center;
     font-size: 40px;
+	text-transform:uppercase;
+	line-height:53px;
+}
+.ticketstext{
+	font-size: 18px;
+    line-height: 32px;
 }
 .accordion {
 	background-color: #ffd3ff;
@@ -443,12 +452,112 @@ h1{
 	height:400px
 }
 .two-col a{
-	    padding: 12px 31px;
+	padding: 12px 31px;
     display: inline-block;
     background-color: #9e009d;
     color: white;
     text-decoration: none;
     font-size: 21px;
+}
+.flex-buttons a{
+	padding: 12px 31px;
+    display: inline-block;
+    background-color: #9e009d;
+    color: white;
+    text-decoration: none;
+   
+}
+.flex-buttons{
+	display: flex;
+    gap: 12px;
+}
+.hone{
+	margin: 0px;
+    text-transform: uppercase;
+    line-height: 49px;
+    font-size: 41px;
+}
+.hone span{
+	color:black;
+}
+.htwo{
+	text-align: center;
+    font-family: 'Oswald';
+    margin-top: -71px;
+    font-size: 30px;
+}
+.btn{
+	padding: 12px 31px;
+    display: inline-block;
+    background-color: #9e009d;
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+	font-family: 'Oswald';
+}
+.detailsbtn{
+	padding: 12px 31px;
+    display: inline-block;
+    background-color: #9e009d;
+    color: white;
+    text-decoration: none;
+	font-family: 'Oswald';
+	text-transform:uppercase;
+}
+.customTable {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 18px;
+}
+table > thead > tr > th {
+    color: black;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+table.customTable td, table.customTable th {
+    border-width: 1px;
+    border-color: #D6D6D6;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+table > tbody > tr > td:nth-child(4) {
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+}
+
+table.customTable td, table.customTable th {
+    border-width: 1px;
+    border-color: #D6D6D6;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+table a{
+	color:white;
+}
+table a:hover{
+	border-bottom:1px solid white;
+}	
+@media screen and (max-width: 800px) {
+    table tr {
+		border: none !important;
+        display: grid;
+    }
+	th{
+		display:none;
+    }
+	table.customTable td, table.customTable th{
+		text-align:center;
+		border:0px !important;
+    }
+	table td:nth-child(1) {
+        font-weight: bold;
+        font-size: 22px;
+        padding: 0.5em 0.75em 0 0.50em;
+        margin-top: 20px;
+    }
+	
 }
 @media screen and (max-width: 992px) {
 	.quote{
@@ -506,6 +615,9 @@ h1{
 	.two-col{
 		grid-template-columns: repeat(1, 1fr);
 		gap:20px;
+	}
+	.htwo{
+		margin-top:0px;
 	}
 	
 }
